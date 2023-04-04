@@ -35,7 +35,12 @@ type Range struct {
 
 type Book struct {
 	Title    string
-	Chapters map[string][]string
+	Chapters map[string][]QuoteAndText
+}
+
+type QuoteAndText struct {
+	Quote string
+	Text  string
 }
 
 func main() {
@@ -55,13 +60,13 @@ func main() {
 	}
 
 	// Unmarshal the JSON data into a slice of Annotation structs
-	var annotations struct {
+	var jsonStructure struct {
 		Count    int          `json:"count"`
 		Next     string       `json:"next"`
 		Previous string       `json:"previous"`
 		Results  []Annotation `json:"results"`
 	}
-	err = json.Unmarshal(data, &annotations)
+	err = json.Unmarshal(data, &jsonStructure)
 	if err != nil {
 		fmt.Println(err)
 		return
@@ -71,14 +76,14 @@ func main() {
 	bookMap := make(map[string]Book)
 
 	// Loop through the annotations and group them by book and chapter
-	for _, annotation := range annotations.Results {
+	for _, annotation := range jsonStructure.Results {
 		book := bookMap[annotation.EpubTitle]
 		if book.Title == "" {
 			book.Title = annotation.EpubTitle
-			book.Chapters = make(map[string][]string)
+			book.Chapters = make(map[string][]QuoteAndText)
 		}
 		chapter := book.Chapters[annotation.ChapterTitle]
-		chapter = append(chapter, annotation.Quote)
+		chapter = append(chapter, QuoteAndText{annotation.Quote, annotation.Text})
 		book.Chapters[annotation.ChapterTitle] = chapter
 		bookMap[annotation.EpubTitle] = book
 	}
@@ -93,6 +98,16 @@ func main() {
 	bookMap = make(map[string]Book)
 	for _, book := range books {
 		bookMap[book.Title] = book
+	}
+
+	for _, book := range bookMap {
+		fmt.Printf("%s\n", book.Title)
+		for chapterTitle, quotes := range book.Chapters {
+			fmt.Printf("\t%s\n", chapterTitle)
+			for _, quote := range quotes {
+				fmt.Printf("\t\t%s\n", quote)
+			}
+		}
 	}
 
 	// Write the notes and highlights grouped by book and chapter to a file in markdown format
@@ -120,23 +135,28 @@ func writeNotesToMarkdown(bookMap map[string]Book, fileName string) error {
 	defer file.Close()
 
 	for _, book := range bookMap {
-		_, err = file.WriteString(fmt.Sprintf("# %s\n\n", book.Title))
+		_, err = file.WriteString(fmt.Sprintf("# %s\n", book.Title))
 		if err != nil {
 			return err
 		}
 
-		for chapterTitle, quotes := range book.Chapters {
-			_, err = file.WriteString(fmt.Sprintf("## %s\n\n", chapterTitle))
+		for chapterTitle, quotesAndTexts := range book.Chapters {
+			_, err = file.WriteString(fmt.Sprintf("## %s\n", chapterTitle))
+			_, err = file.WriteString(fmt.Sprintf("Amount of Notes: %d\n", len(quotesAndTexts)))
 			if err != nil {
 				return err
 			}
 
-			for _, quote := range quotes {
-				_, err = file.WriteString(fmt.Sprintf("- %s\n", quote))
+			for _, quotesAndText := range quotesAndTexts {
+				_, err = file.WriteString(fmt.Sprintf("- Quote: %s\n", quotesAndText.Quote))
+				if quotesAndText.Text != "" {
+					_, err = file.WriteString(fmt.Sprintf("- Comment: %s\n", quotesAndText.Text))
+				}
 				if err != nil {
 					return err
 				}
 			}
+
 			_, err = file.WriteString("\n")
 			if err != nil {
 				return err

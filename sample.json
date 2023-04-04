@@ -1,0 +1,4191 @@
+{
+  "count": 183,
+  "next": "https://learning.oreilly.com/api/v1/annotations/all/?page=2&page_size=100",
+  "previous": null,
+  "results": [
+    {
+      "pk": "a50fc470-8094-482b-92fb-47136bfb0d81",
+      "fragment": "<p>My current toolkit is a simple subset of that menagerie. I use <code>git</code> for source code control, Tracker for issue management, Jenkins for Continuous Build, IntelliJ as my IDE, XUnit for testing, and F<span class=\"smaller\">IT</span>N<span class=\"smaller\">ESSE</span> for component testing.</p>\n<p>My machine is a Macbook Pro, 2.8Ghz Intel Core i7, with a 17-inch matte screen, 8GB ram, 512GB SSD, with two extra screens.</p>",
+      "identifier": "ab531a19-bd3b-44e1-85b0-bd74789a94e8",
+      "is_public": false,
+      "quote": "My current toolkit is a simple subset of that menagerie. I use git for source code control, Tracker for issue management, Jenkins for Continuous Build, IntelliJ as my IDE, XUnit for testing, and FITNESSE for component testing.\n\nMy machine is a Macbook Pro, 2.8Ghz Intel Core i7, with a 17-inch matte screen, 8GB ram, 512GB SSD, with two extra screens.",
+      "ranges": [
+        {
+          "end": "/P[92]",
+          "start": "/P[91]",
+          "endOffset": 123,
+          "startOffset": 91
+        }
+      ],
+      "text": "Zuper vo ihm",
+      "last_modified_time": "2023-04-03T06:28:34.289000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "9cfd48a4-efa1-411b-a776-f2eb96611340",
+      "fragment": "<em>That’s</em> what I mean by <em>detail</em>. Try coding the horrible logic for sorting out line ends in UML!",
+      "identifier": "944fd435-3629-4715-8bf6-73e1d99f78c5",
+      "is_public": false,
+      "quote": "That’s what I mean by detail. Try coding the horrible logic for sorting out line ends in UML!",
+      "ranges": [
+        {
+          "end": "/P[87]",
+          "start": "/P[87]/EM[1]",
+          "endOffset": 93,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-04-02T13:23:12.838000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "3ed4959f-dde1-4f0d-bfc8-e4dbf08e33a4",
+      "fragment": "When was the last time you had to deal with text files that use the “wrong” convention?",
+      "identifier": "c838f52e-e131-4322-97a8-ed18f7f54038",
+      "is_public": false,
+      "quote": "When was the last time you had to deal with text files that use the “wrong” convention?",
+      "ranges": [
+        {
+          "end": "/P[86]",
+          "start": "/P[86]",
+          "endOffset": 87,
+          "startOffset": 0
+        }
+      ],
+      "text": "We did with seproject",
+      "last_modified_time": "2023-04-02T13:22:37.384000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "fb3c8f71-4ddd-490a-865d-9e0ee05f054e",
+      "fragment": "If you returned the carriage and did not send a line-feed character (\\n = 0 × 0A), then the new line would print on top of the old line.",
+      "identifier": "87c99879-a8be-4309-bc0f-14509a12e904",
+      "is_public": false,
+      "quote": "If you returned the carriage and did not send a line-feed character (\\n = 0 × 0A), then the new line would print on top of the old line.",
+      "ranges": [
+        {
+          "end": "/P[83]",
+          "start": "/P[83]",
+          "endOffset": 236,
+          "startOffset": 100
+        }
+      ],
+      "text": "Er erklärt schreibmaschienen",
+      "last_modified_time": "2023-04-02T13:21:57.867000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "7dfd5038-b5ca-4eee-a7e3-460fac8ea480",
+      "fragment": "Programmers are detail managers. That’s what we do. We specify the behavior of systems in the minutest detail",
+      "identifier": "36601848-6bb3-4aab-9a04-e6622e491cf2",
+      "is_public": false,
+      "quote": "Programmers are detail managers. That’s what we do. We specify the behavior of systems in the minutest detail",
+      "ranges": [
+        {
+          "end": "/P[77]",
+          "start": "/P[77]",
+          "endOffset": 109,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-04-02T13:19:44.295000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "fcfc97e2-c023-420b-ad51-934b5bd22166",
+      "fragment": "Boy was I wrong. Not only hasn’t this dream been fulfilled, but every attempt to move in that direction has met with abject failure. Not that there aren’t tools and systems out there that demonstrate the potential; it’s just that those tools simply don’t truly realize the dream, and hardly anybody seems to want to use them",
+      "identifier": "db9cc730-caae-4c7a-a039-785e3e004f31",
+      "is_public": false,
+      "quote": "Boy was I wrong. Not only hasn’t this dream been fulfilled, but every attempt to move in that direction has met with abject failure. Not that there aren’t tools and systems out there that demonstrate the potential; it’s just that those tools simply don’t truly realize the dream, and hardly anybody seems to want to use them",
+      "ranges": [
+        {
+          "end": "/P[74]",
+          "start": "/P[74]",
+          "endOffset": 324,
+          "startOffset": 0
+        }
+      ],
+      "text": "Actually no, this is what might be possible again with ai tools",
+      "last_modified_time": "2023-04-02T13:15:38.373000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "963fd476-894d-4677-a496-04b9ed3f7d36",
+      "fragment": "we don’t want to drive very many tests through the UI because UIs are notoriously volatile",
+      "identifier": "aeffd054-2b31-4d28-a326-24bd8d005ef6",
+      "is_public": false,
+      "quote": "we don’t want to drive very many tests through the UI because UIs are notoriously volatile",
+      "ranges": [
+        {
+          "end": "/P[70]",
+          "start": "/P[70]",
+          "endOffset": 102,
+          "startOffset": 12
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-04-02T13:13:54.126000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "aed9be31-847a-49ea-a00a-bedce9e94d1e",
+      "fragment": "Component testing tools can also be used for many integration tests, but are less than appropriate for tests that are driven through the UI.",
+      "identifier": "3b6c74e2-fffe-442f-847b-18c6e5554ed6",
+      "is_public": false,
+      "quote": "Component testing tools can also be used for many integration tests, but are less than appropriate for tests that are driven through the UI.",
+      "ranges": [
+        {
+          "end": "/P[69]",
+          "start": "/P[69]",
+          "endOffset": 140,
+          "startOffset": 0
+        }
+      ],
+      "text": "Also das sind integr tests",
+      "last_modified_time": "2023-04-02T13:13:40.803000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "abb5f2cc-dd08-4b24-bfc6-27a5f404671b",
+      "fragment": "Component testing tools can also be used for many integration tests, but are less than appropriate for tests that are driven through the UI.",
+      "identifier": "7686b7a1-baa0-42c9-9ada-28b8ddb788cc",
+      "is_public": false,
+      "quote": "Component testing tools can also be used for many integration tests, but are less than appropriate for tests that are driven through the UI.",
+      "ranges": [
+        {
+          "end": "/P[69]",
+          "start": "/P[69]",
+          "endOffset": 140,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-04-02T13:13:26.544000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "6818d7dd-23d4-4549-8a3f-096ccde9bd7c",
+      "fragment": "Component testing tools can also be used for many integration tests, but are less than appropriate for tests that are driven through the UI.",
+      "identifier": "39e9ad77-95e5-4d8e-aa58-499d4c3c19bd",
+      "is_public": false,
+      "quote": "Component testing tools can also be used for many integration tests, but are less than appropriate for tests that are driven through the UI.",
+      "ranges": [
+        {
+          "end": "/P[69]",
+          "start": "/P[69]",
+          "endOffset": 140,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-04-02T13:13:21.258000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "b59edaa9-7124-4313-b87d-ff449812b4af",
+      "fragment": "Dependent tests are a deep trap that you don’t want to fall into.",
+      "identifier": "26c5ae8e-91f3-463e-a1e9-13090ccb455d",
+      "is_public": false,
+      "quote": "Dependent tests are a deep trap that you don’t want to fall into.",
+      "ranges": [
+        {
+          "end": "/OL[1]/LI[4]",
+          "start": "/OL[1]/LI[4]",
+          "endOffset": 528,
+          "startOffset": 463
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-30T06:00:31.848000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "34d0ebd0-c78e-484a-bae7-b99608fe21c8",
+      "fragment": "I’ve also simply used a wiki. Wikis are fine for internal projects. They allow you to set up any scheme you like",
+      "identifier": "1cbc76f1-3a72-4239-a68b-910470f45354",
+      "is_public": false,
+      "quote": "I’ve also simply used a wiki. Wikis are fine for internal projects. They allow you to set up any scheme you like",
+      "ranges": [
+        {
+          "end": "/P[46]",
+          "start": "/P[46]",
+          "endOffset": 112,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-30T05:57:52.040000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "c28e8557-9e43-4992-895e-a352462138fa",
+      "fragment": "Sometimes the best issue-tracking system of all is a set of cards and a bulletin board. The bulletin board is divided into columns such as “To Do,” “In Progress,” and “Done.”",
+      "identifier": "ea0abf17-05cc-482d-bd2b-1f61c50be20f",
+      "is_public": false,
+      "quote": "Sometimes the best issue-tracking system of all is a set of cards and a bulletin board. The bulletin board is divided into columns such as “To Do,” “In Progress,” and “Done.”",
+      "ranges": [
+        {
+          "end": "/P[47]",
+          "start": "/P[47]",
+          "endOffset": 174,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-30T05:57:43.152000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "a631ef26-8019-4163-a71f-b817a162952e",
+      "fragment": "Every developer keeps his or her own copy of the <em>entire</em> history of the project on their local machine",
+      "identifier": "127147eb-0371-4673-9a16-5ff24463a292",
+      "is_public": false,
+      "quote": "Every developer keeps his or her own copy of the entire history of the project on their local machine",
+      "ranges": [
+        {
+          "end": "/P[29]",
+          "start": "/P[29]",
+          "endOffset": 262,
+          "startOffset": 161
+        }
+      ],
+      "text": "Speziell, macht man das noch so? ",
+      "last_modified_time": "2023-03-30T05:55:20.189000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "bb2e9287-b6b1-479c-b2c6-a092b25ecf88",
+      "fragment": "we <em>never</em> check in code that doesn’t pass all the tests. <em>Never ever</em>.",
+      "identifier": "78bd9240-2f4b-4fef-b61c-09f4725917e9",
+      "is_public": false,
+      "quote": "we never check in code that doesn’t pass all the tests. Never ever.",
+      "ranges": [
+        {
+          "end": "/P[21]",
+          "start": "/P[21]",
+          "endOffset": 247,
+          "startOffset": 180
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-30T05:52:40.476000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "A. Tooling",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/apa.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "b1ad9325-cbc2-4aa5-9510-5912d80b06ae",
+      "fragment": "Those things are acquired through years of personal tutelage and mentoring. It is time for those of us in the software industry to face the fact that guiding the next batch of software developers to maturity will fall to us, not to the universities.",
+      "identifier": "cc554cd1-0a4e-442f-878a-749a3059dcb6",
+      "is_public": false,
+      "quote": "Those things are acquired through years of personal tutelage and mentoring. It is time for those of us in the software industry to face the fact that guiding the next batch of software developers to maturity will fall to us, not to the universities.",
+      "ranges": [
+        {
+          "end": "/P[76]",
+          "start": "/P[76]",
+          "endOffset": 398,
+          "startOffset": 149
+        }
+      ],
+      "text": "Wenn das ja so bekannt ist, wieso ändert man die schule nicht? ",
+      "last_modified_time": "2023-03-30T05:41:25.043000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "c4299d09-9a81-4d91-82fa-79576bc669a8",
+      "fragment": "School can teach the theory of computer programming. But school does not, and cannot teach the discipline, practice, and skill of being a craftsman.",
+      "identifier": "bdd52ade-3a43-4bbb-aa76-4290e7803c24",
+      "is_public": false,
+      "quote": "School can teach the theory of computer programming. But school does not, and cannot teach the discipline, practice, and skill of being a craftsman.",
+      "ranges": [
+        {
+          "end": "/P[76]",
+          "start": "/P[76]",
+          "endOffset": 148,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-30T05:40:28.415000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "a749d0d0-ef1a-478a-b257-289fca421556",
+      "fragment": "So now we are in a position to define this word: <em>craftsmanship</em>.",
+      "identifier": "b3214d6f-9aca-4689-b827-d3dfe96fc978",
+      "is_public": false,
+      "quote": "So now we are in a position to define this word: craftsmanship.",
+      "ranges": [
+        {
+          "end": "/P[70]",
+          "start": "/P[70]",
+          "endOffset": 63,
+          "startOffset": 0
+        }
+      ],
+      "text": "Am ende des Buches top",
+      "last_modified_time": "2023-03-30T05:37:35.208000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "d53bf1dc-3dae-4f57-b509-e5766d77348e",
+      "fragment": "Programmers get raises and eventual promotions because, well, that’s just what you do with programmers.",
+      "identifier": "d90e95b3-2c40-4a3d-a86e-ee2222e1d70d",
+      "is_public": false,
+      "quote": "Programmers get raises and eventual promotions because, well, that’s just what you do with programmers.",
+      "ranges": [
+        {
+          "end": "/P[67]",
+          "start": "/P[67]",
+          "endOffset": 526,
+          "startOffset": 423
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-30T05:36:42.404000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "cb240b2f-7642-4ae0-b41d-6dae26ade7c1",
+      "fragment": "The problem is that, in most cases, this supervision <em>is not technical!</em>",
+      "identifier": "43899a00-45d4-4caa-a592-8f605772637e",
+      "is_public": false,
+      "quote": "The problem is that, in most cases, this supervision is not technical!",
+      "ranges": [
+        {
+          "end": "/P[67]/EM[2]",
+          "start": "/P[67]",
+          "endOffset": 17,
+          "startOffset": 292
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-30T05:36:28.406000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "6c5f0976-b4a2-4989-bb9f-4d98241eab5c",
+      "fragment": "Graduates start their careers as apprentices",
+      "identifier": "9033ba50-357e-4977-bba9-0c5c5eeee4c2",
+      "is_public": false,
+      "quote": "Graduates start their careers as apprentices",
+      "ranges": [
+        {
+          "end": "/P[64]",
+          "start": "/P[64]",
+          "endOffset": 44,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-30T05:35:40.024000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "17cef473-92c6-423a-b364-feac6bdf5f51",
+      "fragment": "Journeymen are the teachers",
+      "identifier": "9d2e58ea-a84e-492b-9b93-642e5fe7a439",
+      "is_public": false,
+      "quote": "Journeymen are the teachers",
+      "ranges": [
+        {
+          "end": "/P[65]",
+          "start": "/P[65]",
+          "endOffset": 27,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-30T05:35:14.060000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "e54ef4e9-bc37-4013-9b33-af828e41eeb5",
+      "fragment": "Journeymen",
+      "identifier": "fddcfd1b-2703-4379-b147-88b9c3f3c97b",
+      "is_public": false,
+      "quote": "Journeymen",
+      "ranges": [
+        {
+          "end": "/P[63]",
+          "start": "/P[63]",
+          "endOffset": 10,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-30T05:34:38.670000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "ab2d54b1-71f7-4ff5-a31c-cb7adfa9e6e5",
+      "fragment": "master",
+      "identifier": "709a90b3-828e-48f6-9e46-e1383f8881a2",
+      "is_public": false,
+      "quote": "master",
+      "ranges": [
+        {
+          "end": "/P[61]",
+          "start": "/P[61]",
+          "endOffset": 681,
+          "startOffset": 675
+        }
+      ],
+      "text": "Quick öist",
+      "last_modified_time": "2023-03-30T05:33:44.614000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "a90ba8e0-c9de-4343-a31b-a36cb7af860c",
+      "fragment": "<p> It’s everywhere.</p>\n<p>Given that we entrust software developers with all aspects of our lives, from the minutia to the momentous, I suggest that a reasonable period of training and supervised practice is not inappropriate</p>",
+      "identifier": "a75002f6-dcd7-4626-b994-fa9449753741",
+      "is_public": false,
+      "quote": " It’s everywhere.\n\nGiven that we entrust software developers with all aspects of our lives, from the minutia to the momentous, I suggest that a reasonable period of training and supervised practice is not inappropriate",
+      "ranges": [
+        {
+          "end": "/P[59]",
+          "start": "/P[58]",
+          "endOffset": 199,
+          "startOffset": 507
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-30T05:32:20.271000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "037a8579-879a-48db-beed-9412d0668b57",
+      "fragment": "we do not send graduates into a room, throw meat in occasionally, and expect good things to come out. So why do we do this in software?",
+      "identifier": "21837681-f7f9-4063-a764-6913059db078",
+      "is_public": false,
+      "quote": "we do not send graduates into a room, throw meat in occasionally, and expect good things to come out. So why do we do this in software?",
+      "ranges": [
+        {
+          "end": "/P[54]",
+          "start": "/P[54]",
+          "endOffset": 286,
+          "startOffset": 151
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-30T05:30:56.017000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "526f1925-7ee8-4975-94db-834f9e4e8ec6",
+      "fragment": "That education involves roughly <em>equal amounts</em> of classroom study and clinical activity in hospitals working with professionals.",
+      "identifier": "088b564c-9d72-498b-a6aa-06311530bdd6",
+      "is_public": false,
+      "quote": "That education involves roughly equal amounts of classroom study and clinical activity in hospitals working with professionals.",
+      "ranges": [
+        {
+          "end": "/P[48]",
+          "start": "/P[48]",
+          "endOffset": 352,
+          "startOffset": 225
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-30T05:29:10.732000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "ef15e634-3cf0-4300-a975-6fdc7254d7b9",
+      "fragment": "There just weren’t that many senior programmers in the early seventies. Everywhere else I worked, I <em>was</em> senior. There was nobody to help me figure out what true professional programming was. There was no role model who taught me how to behave or what to value. Those things I had to learn for myself, and it was by no means easy",
+      "identifier": "7b4c278b-3110-42b3-ac14-1aacb3108527",
+      "is_public": false,
+      "quote": "There just weren’t that many senior programmers in the early seventies. Everywhere else I worked, I was senior. There was nobody to help me figure out what true professional programming was. There was no role model who taught me how to behave or what to value. Those things I had to learn for myself, and it was by no means easy",
+      "ranges": [
+        {
+          "end": "/P[42]",
+          "start": "/P[42]",
+          "endOffset": 359,
+          "startOffset": 31
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T15:48:57.508000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "614c2029-ea8e-4984-8953-02a7d4f27e59",
+      "fragment": "This was mentoring. Certainly it was not the kind of mentoring I could have hoped for. It would have been nice if one of those teachers had taken me under his wing and worked with me. But it didn’t matter, because I was <em>observing</em> them and learning at a furious pace.",
+      "identifier": "d09edc69-f2a7-4724-9aab-d680c71d5742",
+      "is_public": false,
+      "quote": "This was mentoring. Certainly it was not the kind of mentoring I could have hoped for. It would have been nice if one of those teachers had taken me under his wing and worked with me. But it didn’t matter, because I was observing them and learning at a furious pace.",
+      "ranges": [
+        {
+          "end": "/P[37]",
+          "start": "/P[37]",
+          "endOffset": 266,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T15:46:21.891000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "582c2f20-ad36-47c5-b6a3-f0823c252f69",
+      "fragment": ". I had learned long ago that it is better to ask forgiveness than permission!",
+      "identifier": "43b2053c-c266-4c67-ab98-7c9aff8cb0a1",
+      "is_public": false,
+      "quote": ". I had learned long ago that it is better to ask forgiveness than permission!",
+      "ranges": [
+        {
+          "end": "/P[29]",
+          "start": "/P[29]",
+          "endOffset": 179,
+          "startOffset": 101
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T15:41:13.871000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "c29d901a-7f37-47b7-a825-0518650b44e1",
+      "fragment": "Do you remember the moment your first program worked? Did it change your life or set you on a course you could not turn away from?",
+      "identifier": "c40e34eb-6420-4f05-b516-0ae3b0fa73c2",
+      "is_public": false,
+      "quote": "Do you remember the moment your first program worked? Did it change your life or set you on a course you could not turn away from?",
+      "ranges": [
+        {
+          "end": "/P[17]",
+          "start": "/P[17]",
+          "endOffset": 130,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T15:34:00.158000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "bca15e86-c8c2-46b8-91a5-614869d2735a",
+      "fragment": "And it worked!",
+      "identifier": "26708467-54db-4c27-b670-b76629000237",
+      "is_public": false,
+      "quote": "And it worked!",
+      "ranges": [
+        {
+          "end": "/P[15]/EM[1]",
+          "start": "/P[15]/EM[1]",
+          "endOffset": 14,
+          "startOffset": 0
+        }
+      ],
+      "text": "That never happens on the first try",
+      "last_modified_time": "2023-03-28T15:33:35.280000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "7340f4de-261e-4458-926d-1e1be809f08f",
+      "fragment": "The manual told you exactly where to put each tube, but not what the tubes <em>did</em>. I found this very frustrating!",
+      "identifier": "4620fdb5-c1a0-4b6f-a29c-38a8bb83af41",
+      "is_public": false,
+      "quote": "The manual told you exactly where to put each tube, but not what the tubes did. I found this very frustrating!",
+      "ranges": [
+        {
+          "end": "/P[12]",
+          "start": "/P[12]",
+          "endOffset": 308,
+          "startOffset": 198
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T07:30:00.644000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "14. Mentoring, Apprenticeship, and Craftsmanship",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch14.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "4c74a2f0-b3a8-4e33-928d-774f5c204f93",
+      "fragment": "Teams are harder to build than projects. Therefore, it is better to form persistent teams that move together from one project to the next and can take on more than one project at a time. ",
+      "identifier": "3374f4d9-1e1c-408f-a0a8-d5f4285c7cd7",
+      "is_public": false,
+      "quote": "Teams are harder to build than projects. Therefore, it is better to form persistent teams that move together from one project to the next and can take on more than one project at a time. ",
+      "ranges": [
+        {
+          "end": "/P[26]",
+          "start": "/P[26]",
+          "endOffset": 187,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T07:26:51.859000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "13. Teams and Projects",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch13.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "7038727e-ddd3-4dfc-b6c8-60915a626667",
+      "fragment": "<p>Aside from having a gelled team working on your projects, the advantage of this scheme is that in an emergency the business can say, “Project B is in crisis; put 100% of your effort on that project for the next three weeks.”</p>\n<p>Reallocating priorities that quickly is virtually impossible with the teams that came out of the blender, but gelled teams that are working on two or three projects concurrently can turn on a dime.</p>",
+      "identifier": "f6e79d41-147a-4d5c-98b0-bf172cd0454a",
+      "is_public": false,
+      "quote": "Aside from having a gelled team working on your projects, the advantage of this scheme is that in an emergency the business can say, “Project B is in crisis; put 100% of your effort on that project for the next three weeks.”\n\nReallocating priorities that quickly is virtually impossible with the teams that came out of the blender, but gelled teams that are working on two or three projects concurrently can turn on a dime.",
+      "ranges": [
+        {
+          "end": "/P[22]",
+          "start": "/P[21]",
+          "endOffset": 197,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T07:25:40.216000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "13. Teams and Projects",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch13.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "830ca53c-469f-41cf-9bae-8b52bca50ecc",
+      "fragment": "Banks and insurance companies tried to form teams around projects. This is a foolish approach",
+      "identifier": "c377b1fb-2767-41d6-b15b-188d6327aac9",
+      "is_public": false,
+      "quote": "Banks and insurance companies tried to form teams around projects. This is a foolish approach",
+      "ranges": [
+        {
+          "end": "/P[16]",
+          "start": "/P[16]",
+          "endOffset": 93,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T07:24:15.259000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "13. Teams and Projects",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch13.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "5757edc7-1535-497b-9ebc-ee2c23391b86",
+      "fragment": "Now here’s a rule: There is no such thing as half a person.",
+      "identifier": "f05a4278-3e0b-436a-940b-3c1cb66f4006",
+      "is_public": false,
+      "quote": "Now here’s a rule: There is no such thing as half a person.",
+      "ranges": [
+        { "end": "/P[5]", "start": "/P[5]", "endOffset": 59, "startOffset": 0 }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T07:21:05.993000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "13. Teams and Projects",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch13.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "9f789929-15db-42be-b7ba-0ac3c0dcdae0",
+      "fragment": "banks and insurance companies over the years. One thing they seem to have in common is the odd way they partition projects.",
+      "identifier": "393c8372-b471-4bf7-8690-573f70a16292",
+      "is_public": false,
+      "quote": "banks and insurance companies over the years. One thing they seem to have in common is the odd way they partition projects.",
+      "ranges": [
+        {
+          "end": "/P[2]",
+          "start": "/P[2]",
+          "endOffset": 156,
+          "startOffset": 33
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T07:20:18.820000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "13. Teams and Projects",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch13.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "72093210-a50e-43ef-acc9-fa22fe2e93e1",
+      "fragment": "Programming <em>is all about working with people</em>.",
+      "identifier": "1efbe6d2-cb52-4fd5-a305-afb075c7e604",
+      "is_public": false,
+      "quote": "Programming is all about working with people.",
+      "ranges": [
+        {
+          "end": "/P[58]",
+          "start": "/P[58]",
+          "endOffset": 124,
+          "startOffset": 79
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T07:10:21.229000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "12. Collaboration",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch12.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "43acf678-c1c1-493c-992a-6ac8ed021d8e",
+      "fragment": "Perhaps you believe that you work better when you work alone. That may be true, but it doesn’t mean that the <em>team</em> works better when you work alone",
+      "identifier": "43a07f9a-53ae-4af1-bba5-8d1d1f5e9097",
+      "is_public": false,
+      "quote": "Perhaps you believe that you work better when you work alone. That may be true, but it doesn’t mean that the team works better when you work alone",
+      "ranges": [
+        {
+          "end": "/P[56]",
+          "start": "/P[56]",
+          "endOffset": 146,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T07:09:45.986000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "12. Collaboration",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch12.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "e70b90eb-142d-4ced-8e09-62375571895e",
+      "fragment": "professionals pair",
+      "identifier": "e97206da-41a3-441d-92df-5929800cf26f",
+      "is_public": false,
+      "quote": "professionals pair",
+      "ranges": [
+        {
+          "end": "/P[49]/EM[1]",
+          "start": "/P[49]/EM[1]",
+          "endOffset": 18,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T07:06:45.864000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "12. Collaboration",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch12.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "df8ed168-d9ab-4738-a188-0441035e5374",
+      "fragment": " I want the <em>team</em> to own the code, not the individuals",
+      "identifier": "33793e00-0de4-47f2-95d3-5acae133aeb6",
+      "is_public": false,
+      "quote": " I want the team to own the code, not the individuals",
+      "ranges": [
+        {
+          "end": "/P[46]",
+          "start": "/P[46]",
+          "endOffset": 261,
+          "startOffset": 208
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T07:04:38.975000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "12. Collaboration",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch12.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "0500359e-d8a9-4522-a415-749fcd074ea7",
+      "fragment": "One of the worst symptoms of a dysfunctional team is when each programmer builds a wall around <em>his</em> code and refuses to let other programmers touch it.",
+      "identifier": "9eeefa82-2f26-4aa5-9879-053fa7c1a065",
+      "is_public": false,
+      "quote": "One of the worst symptoms of a dysfunctional team is when each programmer builds a wall around his code and refuses to let other programmers touch it.",
+      "ranges": [
+        {
+          "end": "/P[42]",
+          "start": "/P[42]",
+          "endOffset": 150,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T07:03:01.218000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "12. Collaboration",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch12.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "f0eab65b-fd9e-4862-9fa9-19b86634af9c",
+      "fragment": "responsibility of the professional programmer is to meet the needs of his or her employer",
+      "identifier": "38925021-43ce-4173-8fd4-5954267d565a",
+      "is_public": false,
+      "quote": "responsibility of the professional programmer is to meet the needs of his or her employer",
+      "ranges": [
+        {
+          "end": "/P[20]",
+          "start": "/P[20]",
+          "endOffset": 99,
+          "startOffset": 10
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T06:57:08.803000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "12. Collaboration",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch12.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "8aaeef1d-fd35-4fcf-8e21-e976b1d0020d",
+      "fragment": "Bugs aren’t interesting. Bugs just need to be fixed",
+      "identifier": "b99a1745-86c3-41be-a18e-787a0949964e",
+      "is_public": false,
+      "quote": "Bugs aren’t interesting. Bugs just need to be fixed",
+      "ranges": [
+        {
+          "end": "/P[18]",
+          "start": "/P[18]",
+          "endOffset": 293,
+          "startOffset": 242
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-28T06:56:56.059000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "12. Collaboration",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch12.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "3181a9e6-93d4-4f21-b941-a18850c2205d",
+      "fragment": "the group average still tends in the direction I stated. We, programmers, enjoy the mild sensory deprivation and cocoonlike immersion of <em>focus</em>",
+      "identifier": "4639488b-a1bc-4f4a-94ce-0488838aee1a",
+      "is_public": false,
+      "quote": "the group average still tends in the direction I stated. We, programmers, enjoy the mild sensory deprivation and cocoonlike immersion of focus",
+      "ranges": [
+        {
+          "end": "/P[16]/EM[1]",
+          "start": "/P[16]",
+          "endOffset": 5,
+          "startOffset": 169
+        }
+      ],
+      "text": "Heute weniger",
+      "last_modified_time": "2023-03-27T14:44:48.275000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "12. Collaboration",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch12.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "dd126d04-c5b9-4d31-a5e0-b8a3a982231e",
+      "fragment": "when you see someone else who’s under pressure, offer to pair with them. Help them out of the hole they are in.",
+      "identifier": "9e1cb1bb-82ff-4779-8ab7-9b3743209f57",
+      "is_public": false,
+      "quote": "when you see someone else who’s under pressure, offer to pair with them. Help them out of the hole they are in.",
+      "ranges": [
+        {
+          "end": "/P[33]",
+          "start": "/P[33]",
+          "endOffset": 130,
+          "startOffset": 19
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-27T14:38:46.174000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "11. Pressure",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch11.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "17584542-b091-4186-a63c-89ff4e869f5a",
+      "fragment": "Pair! When the heat is on, find an associate who is willing to pair program with you",
+      "identifier": "71c12068-c910-498f-9385-ccc5fec0dfb1",
+      "is_public": false,
+      "quote": "Pair! When the heat is on, find an associate who is willing to pair program with you",
+      "ranges": [
+        {
+          "end": "/P[32]",
+          "start": "/P[32]",
+          "endOffset": 84,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-27T14:38:23.619000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "11. Pressure",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch11.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "c59095ac-0087-45ec-b39e-8623ca3c03ed",
+      "fragment": "<h4 id=\"ch11lev2sec6\">Rely on Your Disciplines</h4>\n<p>When the going gets tough, <em>trust your disciplines</em>. The reason you <em>have</em> disciplines is to give you guidance through times of high pressure.</p>",
+      "identifier": "28f90257-7efc-49e1-ae21-52a43b33ec1a",
+      "is_public": false,
+      "quote": "Rely on Your Disciplines\nWhen the going gets tough, trust your disciplines. The reason you have disciplines is to give you guidance through times of high pressure.",
+      "ranges": [
+        {
+          "end": "/P[30]",
+          "start": "/H4[6]",
+          "endOffset": 138,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-27T14:38:13.869000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "11. Pressure",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch11.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "a0221114-128f-4946-997a-c14634a5a8ad",
+      "fragment": "Avoid creating surprises",
+      "identifier": "c8e541f6-d04c-4ccf-91ac-471974b03d7f",
+      "is_public": false,
+      "quote": "Avoid creating surprises",
+      "ranges": [
+        {
+          "end": "/P[29]",
+          "start": "/P[29]",
+          "endOffset": 180,
+          "startOffset": 156
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-25T14:00:47.467000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "11. Pressure",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch11.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "41522c37-c623-412a-8fdc-8102580ebd91",
+      "fragment": "Plot a course to the best possible outcome, and then drive towards that outcome at a reasonable and steady pace",
+      "identifier": "556235e6-6741-44b3-bcf7-24e2d6d1620d",
+      "is_public": false,
+      "quote": "Plot a course to the best possible outcome, and then drive towards that outcome at a reasonable and steady pace",
+      "ranges": [
+        {
+          "end": "/P[28]",
+          "start": "/P[28]",
+          "endOffset": 158,
+          "startOffset": 47
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-25T14:00:33.171000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "11. Pressure",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch11.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "89af76c7-a872-440e-8316-cf32e454ab9d",
+      "fragment": "Manage your stress. Sleepless nights won’t help you get done any faster. Sitting and fretting won’t help either",
+      "identifier": "9ec1f30b-3c19-4d07-9372-a20283cb60ad",
+      "is_public": false,
+      "quote": "Manage your stress. Sleepless nights won’t help you get done any faster. Sitting and fretting won’t help either",
+      "ranges": [
+        {
+          "end": "/P[27]",
+          "start": "/P[27]",
+          "endOffset": 111,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-25T14:00:16.305000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "11. Pressure",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch11.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "ad3e9079-12d1-4a98-8c21-579dd163859f",
+      "fragment": "if you change your behavior in a crisis, then you don’t truly believe in your normal behavior.",
+      "identifier": "641019de-6cfe-429c-a332-766e11d98e3b",
+      "is_public": false,
+      "quote": "if you change your behavior in a crisis, then you don’t truly believe in your normal behavior.",
+      "ranges": [
+        {
+          "end": "/P[22]",
+          "start": "/P[22]",
+          "endOffset": 263,
+          "startOffset": 169
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-25T13:58:50.131000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "11. Pressure",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch11.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "a196ba56-13d8-43a0-949a-d80e8ddaa545",
+      "fragment": "This does not mean that we spend endless hours polishing code. ",
+      "identifier": "310049af-85fb-431b-ae14-b6a046903085",
+      "is_public": false,
+      "quote": "This does not mean that we spend endless hours polishing code. ",
+      "ranges": [
+        {
+          "end": "/P[21]",
+          "start": "/P[21]",
+          "endOffset": 156,
+          "startOffset": 93
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-25T13:56:26.289000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "11. Pressure",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch11.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "e41a5485-a402-4ae2-8a72-26fe6e7cb791",
+      "fragment": "we don’t tolerate messes. We know that messes will slow us down, causing us to miss dates and break commitments. So we do the best work we can and keep our output as clean as we can.",
+      "identifier": "f89395da-9439-4b10-a8cb-45e863da858e",
+      "is_public": false,
+      "quote": "we don’t tolerate messes. We know that messes will slow us down, causing us to miss dates and break commitments. So we do the best work we can and keep our output as clean as we can.",
+      "ranges": [
+        {
+          "end": "/P[21]",
+          "start": "/P[21]",
+          "endOffset": 359,
+          "startOffset": 177
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-25T13:56:21.306000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "11. Pressure",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch11.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "67394b48-805f-4f73-bd80-4d564a53ce10",
+      "fragment": "In the end, if we can find no way to meet the promises made by the business, then the people who made the promises must accept the responsibility.",
+      "identifier": "3b8da550-edb5-41d1-af5d-cee508f9a8c5",
+      "is_public": false,
+      "quote": "In the end, if we can find no way to meet the promises made by the business, then the people who made the promises must accept the responsibility.",
+      "ranges": [
+        {
+          "end": "/P[18]",
+          "start": "/P[18]",
+          "endOffset": 339,
+          "startOffset": 193
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-25T13:55:15.023000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "11. Pressure",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch11.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "b1d98a4c-0107-4a00-8d24-35a84e65dd4c",
+      "fragment": ". I laughed at the man in the mirror, the poor schmuck who’d been making life miserable for himself and others in the name of—what?",
+      "identifier": "474456dd-888f-418b-9097-9bf4c4ea0e79",
+      "is_public": false,
+      "quote": ". I laughed at the man in the mirror, the poor schmuck who’d been making life miserable for himself and others in the name of—what?",
+      "ranges": [
+        {
+          "end": "/P[12]",
+          "start": "/P[12]",
+          "endOffset": 234,
+          "startOffset": 103
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-25T13:53:15.385000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "11. Pressure",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch11.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "c9ba139e-3973-4749-96ad-a168d3c25a76",
+      "fragment": "In 1988 I was working at Clear Communications. This was a start-up that never quite got started",
+      "identifier": "55e71e55-195e-4ab4-a62a-341cd2607e52",
+      "is_public": false,
+      "quote": "In 1988 I was working at Clear Communications. This was a start-up that never quite got started",
+      "ranges": [
+        { "end": "/P[5]", "start": "/P[5]", "endOffset": 95, "startOffset": 0 }
+      ],
+      "text": "",
+      "last_modified_time": "2023-03-24T20:25:14.481000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "11. Pressure",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch11.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "9e310798-c522-4563-809c-b628b4821e09",
+      "fragment": "Estimates are fraught with error. That’s why they are called estimates.",
+      "identifier": "8cea4122-752c-4e54-acec-c2c6fa1ff775",
+      "is_public": false,
+      "quote": "Estimates are fraught with error. That’s why they are called estimates.",
+      "ranges": [
+        {
+          "end": "/P[96]",
+          "start": "/P[96]",
+          "endOffset": 71,
+          "startOffset": 0
+        }
+      ],
+      "text": "",
+      "last_modified_time": "2023-03-24T20:22:30.628000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "4f22de47-c8e6-4d76-bb28-cb3513d6c29e",
+      "fragment": "We don’t want people changing their estimates based on what they see other people do.",
+      "identifier": "9f471706-4829-4743-9c7a-ed9b8f901cba",
+      "is_public": false,
+      "quote": "We don’t want people changing their estimates based on what they see other people do.",
+      "ranges": [
+        {
+          "end": "/P[84]",
+          "start": "/P[84]",
+          "endOffset": 142,
+          "startOffset": 57
+        }
+      ],
+      "text": "",
+      "last_modified_time": "2023-03-24T20:20:14.127000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "5f862987-a56d-424e-b246-ad9581589a4e",
+      "fragment": "estimation technique called “wideband delphi.",
+      "identifier": "fd427d19-f901-47bc-a600-4877da0a9871",
+      "is_public": false,
+      "quote": "estimation technique called “wideband delphi.",
+      "ranges": [
+        {
+          "end": "/P[77]",
+          "start": "/P[77]",
+          "endOffset": 90,
+          "startOffset": 45
+        }
+      ],
+      "text": "",
+      "last_modified_time": "2023-03-24T20:18:47.079000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "2ed37b31-ed38-410a-9444-0b9af637358d",
+      "fragment": "They can help you estimate your tasks more accurately than you can estimate them on your own",
+      "identifier": "acde6740-3abb-4d9d-a8fe-f105eaf3f0e9",
+      "is_public": false,
+      "quote": "They can help you estimate your tasks more accurately than you can estimate them on your own",
+      "ranges": [
+        {
+          "end": "/P[76]",
+          "start": "/P[76]",
+          "endOffset": 203,
+          "startOffset": 111
+        }
+      ],
+      "text": "",
+      "last_modified_time": "2023-03-24T20:18:31.963000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "dae82430-fd64-419f-af14-d50a81b47e4e",
+      "fragment": "Software professionals are very careful to set reasonable expectations despite the pressure to <em>try</em> to go fast.",
+      "identifier": "21bacb48-bbe0-4345-838e-84b9a2d28f0a",
+      "is_public": false,
+      "quote": "Software professionals are very careful to set reasonable expectations despite the pressure to try to go fast.",
+      "ranges": [
+        {
+          "end": "/P[74]",
+          "start": "/P[74]",
+          "endOffset": 394,
+          "startOffset": 284
+        }
+      ],
+      "text": "",
+      "last_modified_time": "2023-03-24T20:18:01.823000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "ad83ff55-7cae-4f28-b1b5-2bd704b4a4bb",
+      "fragment": "standard deviation<sup><a id=\"ch10fn04\" href=\"footnote.xhtml#ftn.ch10fn04\">4</a></sup>",
+      "identifier": "9b9f0493-1c95-4b53-82b5-63a58e19cae9",
+      "is_public": false,
+      "quote": "standard deviation4",
+      "ranges": [
+        {
+          "end": "/P[62]/SUP[1]/A[1]",
+          "start": "/P[62]",
+          "endOffset": 1,
+          "startOffset": 9
+        }
+      ],
+      "text": "Straight out of exev",
+      "last_modified_time": "2023-03-23T07:00:04.257000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "00823144-18b0-4410-88fa-009cb88ee78d",
+      "fragment": "When you estimate a task, you provide three numbers",
+      "identifier": "a78b7e6d-f946-4b69-b06e-89aa1760f043",
+      "is_public": false,
+      "quote": "When you estimate a task, you provide three numbers",
+      "ranges": [
+        {
+          "end": "/P[54]",
+          "start": "/P[54]",
+          "endOffset": 51,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-23T06:59:15.949000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "cdcf2c96-ade0-454f-b238-317f6ed3f5e9",
+      "fragment": "PERT is the way that estimates are calculate",
+      "identifier": "c8231c56-8b0b-400d-abb4-6d0672b8fc65",
+      "is_public": false,
+      "quote": "PERT is the way that estimates are calculate",
+      "ranges": [
+        {
+          "end": "/P[53]",
+          "start": "/P[53]",
+          "endOffset": 193,
+          "startOffset": 149
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-23T06:58:59.959000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "8ff591af-217a-4c2a-b95a-b17da68b805d",
+      "fragment": "<em>try</em> is a loaded term",
+      "identifier": "d881c2fb-086b-4c72-9361-e3f4de13fb62",
+      "is_public": false,
+      "quote": "try is a loaded term",
+      "ranges": [
+        {
+          "end": "/P[50]",
+          "start": "/P[50]/EM[1]",
+          "endOffset": 77,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-23T06:56:27.095000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "f4cb0c6d-5034-4bad-a6ad-f40bd430758a",
+      "fragment": "An estimate is not a number. An estimate is a <em>distribution</em>.",
+      "identifier": "61451ab2-f337-4365-9d37-54e29835b2cb",
+      "is_public": false,
+      "quote": "An estimate is not a number. An estimate is a distribution.",
+      "ranges": [
+        {
+          "end": "/P[24]",
+          "start": "/P[24]",
+          "endOffset": 59,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-23T06:55:17.843000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "ff038c37-e0b0-4004-8a1d-173ebc23a748",
+      "fragment": "Probability distribution",
+      "identifier": "1ec4281e-5343-4726-9eea-fdc3de5b22f2",
+      "is_public": false,
+      "quote": "Probability distribution",
+      "ranges": [
+        {
+          "end": "/FIGURE[2]/FIGCAPTION[1]/P[1]/STRONG[1]",
+          "start": "/FIGURE[2]/FIGCAPTION[1]/P[1]/STRONG[1]",
+          "endOffset": 37,
+          "startOffset": 13
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T12:22:15.935000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "85495341-5438-46a0-b1d2-d3917835a00e",
+      "fragment": "An estimate is a guess. No commitment is implied",
+      "identifier": "46d795a6-e305-45e8-ba40-ae0f69dfc3ca",
+      "is_public": false,
+      "quote": "An estimate is a guess. No commitment is implied",
+      "ranges": [
+        {
+          "end": "/P[22]",
+          "start": "/P[22]",
+          "endOffset": 48,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T12:20:38.889000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "32cb352d-b074-40e5-9953-86b4c573b7f9",
+      "fragment": "Missing a commitment is an act of dishonesty only slightly less onerous than an overt lie.",
+      "identifier": "f31ef921-abc5-46c7-b511-87247f096bf8",
+      "is_public": false,
+      "quote": "Missing a commitment is an act of dishonesty only slightly less onerous than an overt lie.",
+      "ranges": [
+        {
+          "end": "/P[21]",
+          "start": "/P[21]",
+          "endOffset": 288,
+          "startOffset": 198
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T12:20:29.456000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "561d38e3-4d49-4bf8-a1ba-c36e9adcd92c",
+      "fragment": "Professionals don’t make commitments unless they <em>know</em> they can achieve them",
+      "identifier": "3cdf3359-7e98-498e-84a5-be5f1f7fe69c",
+      "is_public": false,
+      "quote": "Professionals don’t make commitments unless they know they can achieve them",
+      "ranges": [
+        {
+          "end": "/P[20]",
+          "start": "/P[20]",
+          "endOffset": 75,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T12:19:57.032000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "8698e5ec-c0b9-46d9-850c-5d5d7666c467",
+      "fragment": "Business likes to view estimates as commitments. Developers like to view estimates as guesses. The difference is profound.",
+      "identifier": "28550522-c78f-4fcd-90f4-b84681f3b4f0",
+      "is_public": false,
+      "quote": "Business likes to view estimates as commitments. Developers like to view estimates as guesses. The difference is profound.",
+      "ranges": [
+        {
+          "end": "/P[18]",
+          "start": "/P[18]",
+          "endOffset": 179,
+          "startOffset": 57
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T12:08:53.962000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "36e01510-a136-49bd-b64f-e5f07534bb55",
+      "fragment": "It took <em>three</em> months",
+      "identifier": "a63ce97e-b389-4ad8-bdb2-94a2126bd7e6",
+      "is_public": false,
+      "quote": "It took three months",
+      "ranges": [
+        {
+          "end": "/P[12]",
+          "start": "/P[12]",
+          "endOffset": 20,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T12:07:16.217000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "02fc7f07-7ad5-42e8-9482-1954f2f6ba8c",
+      "fragment": "If you’ve read my books, or heard my talks, you know I rant a lot about independent deployability. This is where I first learned that lesson.",
+      "identifier": "ee9e83f7-174c-4ee1-9c2f-eea2741e1653",
+      "is_public": false,
+      "quote": "If you’ve read my books, or heard my talks, you know I rant a lot about independent deployability. This is where I first learned that lesson.",
+      "ranges": [
+        {
+          "end": "/P[5]",
+          "start": "/P[5]",
+          "endOffset": 303,
+          "startOffset": 162
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T12:04:43.205000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "10. Estimation",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch10.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "1f21dedb-b73c-4f30-a802-fe9bd1bb1475",
+      "fragment": "They keep their options open by keeping an open mind about alternate solutions. They never become so vested in a solution that they can’t abandon it.",
+      "identifier": "840ef59b-61f4-4725-8b68-790e68dd6a0f",
+      "is_public": false,
+      "quote": "They keep their options open by keeping an open mind about alternate solutions. They never become so vested in a solution that they can’t abandon it.",
+      "ranges": [
+        {
+          "end": "/P[76]",
+          "start": "/P[76]",
+          "endOffset": 323,
+          "startOffset": 174
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T12:01:03.982000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "d43b961a-cc7a-4324-bc30-bc305b2f6cf0",
+      "fragment": "the inflection point! You can still go back and fix the design. But you can also continue to go forward",
+      "identifier": "93755e65-5baf-405d-ab58-7faaeba17c3c",
+      "is_public": false,
+      "quote": "the inflection point! You can still go back and fix the design. But you can also continue to go forward",
+      "ranges": [
+        {
+          "end": "/P[73]",
+          "start": "/P[73]",
+          "endOffset": 111,
+          "startOffset": 8
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T11:59:38.355000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "504d0540-f806-46b7-b4ca-1d45cec4613b",
+      "fragment": "eventually you will make a decision that leads to a mess.",
+      "identifier": "8350a7a4-d32a-4ad9-b2bd-aa647b2e741f",
+      "is_public": false,
+      "quote": "eventually you will make a decision that leads to a mess.",
+      "ranges": [
+        {
+          "end": "/P[71]",
+          "start": "/P[71]",
+          "endOffset": 197,
+          "startOffset": 140
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T07:32:57.818000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "b1df9044-e7e6-4367-9d74-5f741dfb2395",
+      "fragment": "Professionals avoid getting so vested in an idea that they can’t abandon it and turn around. They keep an open mind about other ideas so that when they hit a dead end they still have other options.",
+      "identifier": "bb80908f-3d86-494c-a676-177a99cf94f1",
+      "is_public": false,
+      "quote": "Professionals avoid getting so vested in an idea that they can’t abandon it and turn around. They keep an open mind about other ideas so that when they hit a dead end they still have other options.",
+      "ranges": [
+        {
+          "end": "/P[68]",
+          "start": "/P[68]",
+          "endOffset": 197,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T07:31:54.907000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "6cfffc32-64df-4eca-b227-ace0c620e052",
+      "fragment": "defense to protect us from the judgment of others.",
+      "identifier": "8527320f-c82f-4f87-8c0c-2eecad7684af",
+      "is_public": false,
+      "quote": "defense to protect us from the judgment of others.",
+      "ranges": [
+        {
+          "end": "/P[64]",
+          "start": "/P[64]",
+          "endOffset": 233,
+          "startOffset": 183
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T07:30:37.836000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "4fc10013-b006-4474-9a4d-17d3df6bb038",
+      "fragment": "preparing for the lie we’ll tell when someone asks us what we are doing and why we are doing it",
+      "identifier": "e7edd7cc-099d-4ed3-8fda-0a48fc7ece3a",
+      "is_public": false,
+      "quote": "preparing for the lie we’ll tell when someone asks us what we are doing and why we are doing it",
+      "ranges": [
+        {
+          "end": "/P[64]",
+          "start": "/P[64]",
+          "endOffset": 163,
+          "startOffset": 68
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T07:30:31.255000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "bd20e8c1-6d2e-49a1-aed1-32e2b83e019e",
+      "fragment": "<em>priority inversion</em>. You raise the priority of a task so that you can postpone the task that has the true priority.",
+      "identifier": "227c7e49-5187-4cd0-aeef-7a5129db6494",
+      "is_public": false,
+      "quote": "priority inversion. You raise the priority of a task so that you can postpone the task that has the true priority.",
+      "ranges": [
+        {
+          "end": "/P[63]",
+          "start": "/P[63]/EM[1]",
+          "endOffset": 277,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T07:30:03.910000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "d8fdac74-5852-48cd-b398-8d1b32073aef",
+      "fragment": "25-minute window of productive time that you aggressively defend against all interruptions.",
+      "identifier": "631c80d6-4c0b-4997-a190-4f8486750f56",
+      "is_public": false,
+      "quote": "25-minute window of productive time that you aggressively defend against all interruptions.",
+      "ranges": [
+        {
+          "end": "/P[61]",
+          "start": "/P[61]",
+          "endOffset": 318,
+          "startOffset": 227
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T07:29:17.513000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "a701f8bd-e841-4699-822a-27f5a9771035",
+      "fragment": "Some people get so comfortable with the technique that they estimate their tasks in tomatoes and then measure their weekly tomato velocity",
+      "identifier": "58f7df27-a3cf-485d-aaae-a4a537956fb4",
+      "is_public": false,
+      "quote": "Some people get so comfortable with the technique that they estimate their tasks in tomatoes and then measure their weekly tomato velocity",
+      "ranges": [
+        {
+          "end": "/P[61]",
+          "start": "/P[61]",
+          "endOffset": 138,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T07:29:01.200000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "15d7c068-cd92-483b-9f83-6fcd138456ea",
+      "fragment": "On a good day you might get 12 or even 14 tomatoes done",
+      "identifier": "d22526f3-2669-4ead-a0df-c87c71fba97c",
+      "is_public": false,
+      "quote": "On a good day you might get 12 or even 14 tomatoes done",
+      "ranges": [
+        {
+          "end": "/P[60]",
+          "start": "/P[60]",
+          "endOffset": 100,
+          "startOffset": 45
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T07:28:40.324000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "dfa350a5-9219-4726-aa2a-c88f1b2553f4",
+      "fragment": "your time is divided into tomato and non-tomato time",
+      "identifier": "7173bab4-8a69-4cc7-9a1a-3195a85db3ff",
+      "is_public": false,
+      "quote": "your time is divided into tomato and non-tomato time",
+      "ranges": [
+        {
+          "end": "/P[59]",
+          "start": "/P[59]",
+          "endOffset": 73,
+          "startOffset": 21
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T07:28:18.128000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "b809b2cb-dd28-415f-8564-ec907930fd5c",
+      "fragment": "While I ride I listen to podcasts about astronomy or politics. Sometimes I just listen to my favorite music. And sometimes I just turn the headphones off and listen to nature.",
+      "identifier": "d19b0d54-3dfc-49cb-95ca-b78b76db6680",
+      "is_public": false,
+      "quote": "While I ride I listen to podcasts about astronomy or politics. Sometimes I just listen to my favorite music. And sometimes I just turn the headphones off and listen to nature.",
+      "ranges": [
+        {
+          "end": "/P[53]",
+          "start": "/P[53]",
+          "endOffset": 175,
+          "startOffset": 0
+        }
+      ],
+      "text": "Consious about listening to music",
+      "last_modified_time": "2023-03-21T07:26:03.518000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "14eec46a-6043-4812-91e9-6712b9240c02",
+      "fragment": "muscle focus helps to recharge mental focu",
+      "identifier": "b8150613-2115-49d3-9327-97b057b3e11f",
+      "is_public": false,
+      "quote": "muscle focus helps to recharge mental focu",
+      "ranges": [
+        {
+          "end": "/P[51]",
+          "start": "/P[51]",
+          "endOffset": 291,
+          "startOffset": 249
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T07:25:17.045000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "5f777c7c-0664-4537-95f9-00692acd7de9",
+      "fragment": "you can’t force the focus",
+      "identifier": "6f332ac4-7d75-42cc-bae0-17daaddcc84d",
+      "is_public": false,
+      "quote": "you can’t force the focus",
+      "ranges": [
+        {
+          "end": "/P[50]",
+          "start": "/P[50]",
+          "endOffset": 67,
+          "startOffset": 42
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T07:24:37.609000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "9a537b1d-914e-497b-810d-206eb1281db4",
+      "fragment": "Seven hours of sleep will often give me a full eight hours’ worth of focus-manna.",
+      "identifier": "f560addb-090a-4a4b-9e39-2ae7007f089b",
+      "is_public": false,
+      "quote": "Seven hours of sleep will often give me a full eight hours’ worth of focus-manna.",
+      "ranges": [
+        {
+          "end": "/P[45]",
+          "start": "/P[45]",
+          "endOffset": 178,
+          "startOffset": 97
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T07:23:54.820000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "07e5f653-1275-4061-84e3-3030bb3c53ec",
+      "fragment": "Caffeine also puts a strange “jitter” on your focus. ",
+      "identifier": "5fd7a597-ebc9-4469-85e1-0b6eb4aa0e3a",
+      "is_public": false,
+      "quote": "Caffeine also puts a strange “jitter” on your focus. ",
+      "ranges": [
+        {
+          "end": "/P[46]",
+          "start": "/P[46]",
+          "endOffset": 192,
+          "startOffset": 139
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T07:23:43.546000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "09266628-e108-4f06-aa10-0ef23a68f4a8",
+      "fragment": "Professional developers learn to manage their time to take advantage of their focus-manna.",
+      "identifier": "da3391f2-8e4f-4d6c-ba8a-b20fa9bf6b51",
+      "is_public": false,
+      "quote": "Professional developers learn to manage their time to take advantage of their focus-manna.",
+      "ranges": [
+        {
+          "end": "/P[42]",
+          "start": "/P[42]",
+          "endOffset": 326,
+          "startOffset": 236
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-21T07:22:54.750000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "3ae469f1-2724-4bd9-8588-7856367160c6",
+      "fragment": "Any argument that can’t be settled in five minutes can’t be settled by arguing.” The reason it goes on so long is that there is no clear evidence supporting either side. The argument is probably religious, as opposed to factual.",
+      "identifier": "6fc6c5ea-7694-47c5-a1f3-0f9f7208a8c7",
+      "is_public": false,
+      "quote": "Any argument that can’t be settled in five minutes can’t be settled by arguing.” The reason it goes on so long is that there is no clear evidence supporting either side. The argument is probably religious, as opposed to factual.",
+      "ranges": [
+        {
+          "end": "/P[32]",
+          "start": "/P[32]",
+          "endOffset": 272,
+          "startOffset": 44
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-20T07:00:14.730000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "7e18ea3c-398c-40fe-aeeb-8e8082aef640",
+      "fragment": "Iteration Planning Meetings",
+      "identifier": "6504b61a-7a5a-4c94-b5fd-50df783fcc55",
+      "is_public": false,
+      "quote": "Iteration Planning Meetings",
+      "ranges": [
+        {
+          "end": "/H4[5]",
+          "start": "/H4[5]",
+          "endOffset": 27,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-20T06:59:15.394000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "b6643ca9-b1c0-46c8-81d3-c489fc84deaf",
+      "fragment": "When the meeting gets boring, leave.",
+      "identifier": "a8c2e953-e20d-41cd-a9f1-83e6761f7cab",
+      "is_public": false,
+      "quote": "When the meeting gets boring, leave.",
+      "ranges": [
+        {
+          "end": "/P[18]",
+          "start": "/P[18]",
+          "endOffset": 298,
+          "startOffset": 262
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-19T19:47:26.508000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "aa47ff35-9122-4165-a4fa-bf4e207aa28a",
+      "fragment": "You need to use your time wisely. So be very carefu",
+      "identifier": "d045aa44-53de-45c8-be14-52f19432a71b",
+      "is_public": false,
+      "quote": "You need to use your time wisely. So be very carefu",
+      "ranges": [
+        {
+          "end": "/P[12]",
+          "start": "/P[12]",
+          "endOffset": 174,
+          "startOffset": 123
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-19T19:45:07.377000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "bd1abd61-46cb-4c29-8297-05ac654b84db",
+      "fragment": "Some in attendance may find them invaluable; others may find them redundant or useless.",
+      "identifier": "6e025005-4881-4a59-a621-b593f6317cec",
+      "is_public": false,
+      "quote": "Some in attendance may find them invaluable; others may find them redundant or useless.",
+      "ranges": [
+        {
+          "end": "/P[10]",
+          "start": "/P[10]",
+          "endOffset": 145,
+          "startOffset": 58
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-19T19:44:28.420000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "6b780ab1-48ca-4f88-8675-d6eefa53b57b",
+      "fragment": "<p>There are two truths about meeting.</p>\n<ol>\n<li>Meetings are necessary.</li>\n<li>Meetings are huge time wasters.</li></ol>",
+      "identifier": "f0dc3560-acdd-4828-8c51-1046f5af6b31",
+      "is_public": false,
+      "quote": "There are two truths about meeting.\n\nMeetings are necessary.\nMeetings are huge time wasters.",
+      "ranges": [
+        {
+          "end": "/OL[1]/LI[2]",
+          "start": "/P[9]",
+          "endOffset": 31,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-19T19:44:09.202000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "9. Time Management",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch09.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "d96de5b4-1ab8-4eae-af78-bb58cade7238",
+      "fragment": "typically <em>not</em> executed as part of the Continuous Integration suite, because they often have longer runtimes",
+      "identifier": "908ae53c-f7a2-4317-a0e1-dc93fab46bd5",
+      "is_public": false,
+      "quote": "typically not executed as part of the Continuous Integration suite, because they often have longer runtimes",
+      "ranges": [
+        {
+          "end": "/P[18]",
+          "start": "/P[18]",
+          "endOffset": 213,
+          "startOffset": 106
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-19T19:37:38.725000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "8. Testing Strategies",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch08.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "74933e2f-1a81-4715-b8fc-0291c86f2ecf",
+      "fragment": "at this level that we might see performance and throughput tests.",
+      "identifier": "78d4a765-7d24-4432-8233-e4db0564ee3a",
+      "is_public": false,
+      "quote": "at this level that we might see performance and throughput tests.",
+      "ranges": [
+        {
+          "end": "/P[17]",
+          "start": "/P[17]",
+          "endOffset": 245,
+          "startOffset": 180
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-19T19:37:16.456000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "8. Testing Strategies",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch08.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "4d49b7fe-3b60-48d1-917c-3697c464d382",
+      "fragment": "Integration tests are <em>choreography</em> tests. They do not test business rules",
+      "identifier": "4de165cc-bd3c-41dd-9506-af9b5bac19ff",
+      "is_public": false,
+      "quote": "Integration tests are choreography tests. They do not test business rules",
+      "ranges": [
+        {
+          "end": "/P[16]",
+          "start": "/P[16]",
+          "endOffset": 73,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-19T19:36:49.460000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "8. Testing Strategies",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch08.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "5e2b929b-5150-4bb0-9f73-6b70524c9a75",
+      "fragment": "The test automation pyramid",
+      "identifier": "a6177d91-1ad6-4fe2-b20e-93ecdcc0cb2b",
+      "is_public": false,
+      "quote": "The test automation pyramid",
+      "ranges": [
+        {
+          "end": "/FIGURE[2]/FIGCAPTION[1]/P[1]/STRONG[1]",
+          "start": "/FIGURE[2]/FIGCAPTION[1]/P[1]/STRONG[1]",
+          "endOffset": 39,
+          "startOffset": 12
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-19T19:34:04.954000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "8. Testing Strategies",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch08.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "47c0912e-9217-4eec-853e-c94f089d5f17",
+      "fragment": "In general, the business writes the happy-path tests, while QA writes the corner, boundary, and unhappy-path tests.",
+      "identifier": "711c23de-9fc6-4a1b-aaa6-7766a7484ada",
+      "is_public": false,
+      "quote": "In general, the business writes the happy-path tests, while QA writes the corner, boundary, and unhappy-path tests.",
+      "ranges": [
+        {
+          "end": "/P[6]",
+          "start": "/P[6]",
+          "endOffset": 470,
+          "startOffset": 355
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-19T19:31:25.812000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "8. Testing Strategies",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch08.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "54e7dd59-bb20-48fb-891f-a0f5f4a56233",
+      "fragment": "it should be the goal of the development group that QA find nothing wrong.",
+      "identifier": "bd5d96d4-7c8c-4345-b9be-34f5459c7a2b",
+      "is_public": false,
+      "quote": "it should be the goal of the development group that QA find nothing wrong.",
+      "ranges": [
+        {
+          "end": "/P[3]",
+          "start": "/P[3]",
+          "endOffset": 206,
+          "startOffset": 132
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-19T19:30:36.597000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "8. Testing Strategies",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch08.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "0910839b-24c3-45cc-986c-99001850fc08",
+      "fragment": "effectively eliminate communication errors between programmers and stakeholders is to write automated acceptance tests",
+      "identifier": "042f1c28-d523-4961-a073-54fad30d623e",
+      "is_public": false,
+      "quote": "effectively eliminate communication errors between programmers and stakeholders is to write automated acceptance tests",
+      "ranges": [
+        {
+          "end": "/P[173]",
+          "start": "/P[173]",
+          "endOffset": 144,
+          "startOffset": 26
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T18:31:34.938000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "52f072e3-654a-4ba5-b53e-4905f3aa0fb1",
+      "fragment": "All too often both parties agree that they understand and leave with completely different ideas",
+      "identifier": "39b93cbc-3fe8-4bb7-bbe2-e358572a758b",
+      "is_public": false,
+      "quote": "All too often both parties agree that they understand and leave with completely different ideas",
+      "ranges": [
+        {
+          "end": "/P[172]",
+          "start": "/P[172]",
+          "endOffset": 335,
+          "startOffset": 240
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T18:31:17.523000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "0c74d43c-095e-40d4-901c-907b33a05df5",
+      "fragment": "Every time someone commits a module, the CI system should kick off a build, and then run all the tests in the system. The results of that run should be emailed to everyone on the team.",
+      "identifier": "85a3a6ec-3f17-4083-b20e-2a6766db046d",
+      "is_public": false,
+      "quote": "Every time someone commits a module, the CI system should kick off a build, and then run all the tests in the system. The results of that run should be emailed to everyone on the team.",
+      "ranges": [
+        {
+          "end": "/P[169]",
+          "start": "/P[169]",
+          "endOffset": 374,
+          "startOffset": 190
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T18:30:16.645000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "acf22b72-12fd-4e3e-8e44-de5121bd95f8",
+      "fragment": "Keep the GUI tests to a minimum",
+      "identifier": "51355d4b-bc8f-490a-9f10-250f827d1ad5",
+      "is_public": false,
+      "quote": "Keep the GUI tests to a minimum",
+      "ranges": [
+        {
+          "end": "/P[168]",
+          "start": "/P[168]",
+          "endOffset": 31,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T18:29:32.762000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "6674ae82-53d6-4acd-8753-2d40025dc547",
+      "fragment": "The trick is to design the system so that you can treat the GUI as though it were an API rather than a set of buttons, sliders, grids, and menus",
+      "identifier": "4f532368-a0fc-4cd8-ad1c-b256e7ab6162",
+      "is_public": false,
+      "quote": "The trick is to design the system so that you can treat the GUI as though it were an API rather than a set of buttons, sliders, grids, and menus",
+      "ranges": [
+        {
+          "end": "/P[161]",
+          "start": "/P[161]",
+          "endOffset": 206,
+          "startOffset": 62
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T18:27:16.939000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "fd7c0559-bdc1-42a3-91b6-5f0125221340",
+      "fragment": "Unit tests dig into the guts of the system making calls to methods in particular classes. Acceptance tests invoke the system much farther out, at the API or sometimes even UI leve",
+      "identifier": "7aec8414-9db2-471c-9596-57d89d81cf05",
+      "is_public": false,
+      "quote": "Unit tests dig into the guts of the system making calls to methods in particular classes. Acceptance tests invoke the system much farther out, at the API or sometimes even UI leve",
+      "ranges": [
+        {
+          "end": "/P[158]",
+          "start": "/P[158]",
+          "endOffset": 280,
+          "startOffset": 101
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T18:26:07.801000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "65a48c75-eeec-4ded-8682-afebae221197",
+      "fragment": "Acceptance tests are written <em>by</em> the business <em>for</em> the business (even when you, the developer, end up writing them).",
+      "identifier": "99fbccf1-0001-4d10-abc1-39b97ea766d4",
+      "is_public": false,
+      "quote": "Acceptance tests are written by the business for the business (even when you, the developer, end up writing them).",
+      "ranges": [
+        {
+          "end": "/P[156]",
+          "start": "/P[156]",
+          "endOffset": 114,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T18:25:05.710000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "e5a8dc03-698b-46a1-bac3-f691be7ff7a2",
+      "fragment": "Acceptance tests are not <em>unit</em> tests. Unit tests are written <em>by</em> programmers <em>for</em> programmers",
+      "identifier": "9716fca7-391f-43a3-8660-d7fbb478fa69",
+      "is_public": false,
+      "quote": "Acceptance tests are not unit tests. Unit tests are written by programmers for programmers",
+      "ranges": [
+        {
+          "end": "/P[155]",
+          "start": "/P[155]",
+          "endOffset": 90,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T18:24:49.886000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "ff20d73f-c047-49ef-89f8-77ea3338eea4",
+      "fragment": "Following the principle of “late precision,” acceptance tests should be written as late as possible, typically a few days before the feature is implemented",
+      "identifier": "f98a658d-b030-4641-823d-64e828e77310",
+      "is_public": false,
+      "quote": "Following the principle of “late precision,” acceptance tests should be written as late as possible, typically a few days before the feature is implemented",
+      "ranges": [
+        {
+          "end": "/P[115]",
+          "start": "/P[115]",
+          "endOffset": 155,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T18:20:30.266000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "bdf3f71e-d87f-4a1f-be83-acfefae9310f",
+      "fragment": "done",
+      "identifier": "99b5f9e4-cbca-4a2d-a185-7b44bc91ffb7",
+      "is_public": false,
+      "quote": "done",
+      "ranges": [
+        {
+          "end": "/P[112]",
+          "start": "/P[112]",
+          "endOffset": 791,
+          "startOffset": 787
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T18:18:44.167000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "cef61c87-063c-446a-a98d-c2bf6bb8ac46",
+      "fragment": "The cost of running the manual test plan is so enormous that they have decided to sacrifice it and simply live with the fact that <em>they won’t know if half of their product works</em>",
+      "identifier": "56b11368-1697-432c-8537-1c68cb7f36cd",
+      "is_public": false,
+      "quote": "The cost of running the manual test plan is so enormous that they have decided to sacrifice it and simply live with the fact that they won’t know if half of their product works",
+      "ranges": [
+        {
+          "end": "/P[109]/EM[1]",
+          "start": "/P[109]",
+          "endOffset": 46,
+          "startOffset": 57
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T18:16:54.731000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "221a6c47-72c3-4e87-b75f-dd63697e58c1",
+      "fragment": "Acceptance tests should <em>always</em> be automated",
+      "identifier": "21ff704d-157f-4a82-be2e-809132c4f59f",
+      "is_public": false,
+      "quote": "Acceptance tests should always be automated",
+      "ranges": [
+        {
+          "end": "/P[107]",
+          "start": "/P[107]",
+          "endOffset": 43,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T18:15:49.181000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "eb6b458c-1cdf-4e1f-9bd0-510793df4471",
+      "fragment": "purpose of acceptance tests is communication, clarity, and precisio",
+      "identifier": "f11844bf-6523-4092-971b-6b89ebcfd654",
+      "is_public": false,
+      "quote": "purpose of acceptance tests is communication, clarity, and precisio",
+      "ranges": [
+        {
+          "end": "/P[106]",
+          "start": "/P[106]",
+          "endOffset": 71,
+          "startOffset": 4
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T18:15:11.463000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "1a157343-1bd2-47ae-8c1c-47e6080aa400",
+      "fragment": "ambiguity of “done.” When a developer says he’s done with a task, what does that mean? Is the developer done in the sense that he’s ready to deploy the feature with full confidence? Or does he mean that he’s ready for QA? Or perhaps he’s done writing it and has gotten it to run once but hasn’t really tested it yet.",
+      "identifier": "cf33e5a4-e715-45ac-9c4c-4b7b8cbd95ed",
+      "is_public": false,
+      "quote": "ambiguity of “done.” When a developer says he’s done with a task, what does that mean? Is the developer done in the sense that he’s ready to deploy the feature with full confidence? Or does he mean that he’s ready for QA? Or perhaps he’s done writing it and has gotten it to run once but hasn’t really tested it yet.",
+      "ranges": [
+        {
+          "end": "/P[58]",
+          "start": "/P[58]",
+          "endOffset": 392,
+          "startOffset": 76
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T18:11:10.195000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "cebfdf23-e1a7-4185-a6cd-fdb4ebd8391e",
+      "fragment": "Professional developers don’t flesh out a requirement until they are just about to develop it",
+      "identifier": "f0c3ea14-5ba8-4399-8635-102709997803",
+      "is_public": false,
+      "quote": "Professional developers don’t flesh out a requirement until they are just about to develop it",
+      "ranges": [
+        {
+          "end": "/P[22]",
+          "start": "/P[22]",
+          "endOffset": 172,
+          "startOffset": 79
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T06:39:53.583000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "1ef01563-a69b-4291-a6c8-b6b6d7a13dee",
+      "fragment": "Professional developers understand that estimates can, and should, be made based on low precision requirements, and recognize that those estimates <em>are estimates</em>. To reinforce this, professional developers always include error bars with their estimates so that the business understands the uncertainty.",
+      "identifier": "13107227-ede7-4372-8c45-8e006b810879",
+      "is_public": false,
+      "quote": "Professional developers understand that estimates can, and should, be made based on low precision requirements, and recognize that those estimates are estimates. To reinforce this, professional developers always include error bars with their estimates so that the business understands the uncertainty.",
+      "ranges": [
+        {
+          "end": "/P[21]",
+          "start": "/P[21]",
+          "endOffset": 301,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T06:39:35.864000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "fabf2401-ac7b-4c23-8d22-c0d5d21736c5",
+      "fragment": "In the end, the more precise you make your requirements, the less relevant they become as the system is implemented",
+      "identifier": "b880639d-d8c6-4fac-a5ec-496e81ea3eec",
+      "is_public": false,
+      "quote": "In the end, the more precise you make your requirements, the less relevant they become as the system is implemented",
+      "ranges": [
+        {
+          "end": "/P[18]",
+          "start": "/P[18]",
+          "endOffset": 115,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T06:38:18.171000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "8f9d964d-49fd-44d8-b796-9c0d5c21bc96",
+      "fragment": "Once they see the requirement actually running, they have a better idea of what they really want—and it’s usually not what they are seeing.",
+      "identifier": "d8bd9c1b-8d91-4744-9b07-1afd29f26440",
+      "is_public": false,
+      "quote": "Once they see the requirement actually running, they have a better idea of what they really want—and it’s usually not what they are seeing.",
+      "ranges": [
+        {
+          "end": "/P[16]",
+          "start": "/P[16]",
+          "endOffset": 352,
+          "startOffset": 213
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T06:37:51.065000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "c0b46892-b3b5-48d5-b64a-3db35ac83d9b",
+      "fragment": "bit by bit I found myself implementing this application while he sat there and watched. Within the first twenty minutes it was clear that his emphasis had changed from learning how to do it himself to making sure that what <em>I</em> did was what <em>he</em> wanted.",
+      "identifier": "97814b42-3f0b-4eeb-9496-49b69746201d",
+      "is_public": false,
+      "quote": "bit by bit I found myself implementing this application while he sat there and watched. Within the first twenty minutes it was clear that his emphasis had changed from learning how to do it himself to making sure that what I did was what he wanted.",
+      "ranges": [
+        { "end": "/P[9]", "start": "/P[9]", "endOffset": 251, "startOffset": 3 }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T06:35:46.795000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "5e264155-bf23-4c0d-8af0-93b9afafbf2f",
+      "fragment": "My explanation simply made no sense to him at all",
+      "identifier": "6a9e4a1f-7513-4f48-bd91-e962ea631ce7",
+      "is_public": false,
+      "quote": "My explanation simply made no sense to him at all",
+      "ranges": [
+        {
+          "end": "/P[6]",
+          "start": "/P[6]",
+          "endOffset": 394,
+          "startOffset": 345
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T06:34:49.204000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "7. Acceptance Testing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch07.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "3216dc4f-2dfe-4b54-9cdb-fbe7a445cacb",
+      "fragment": "Professional programmers often suffer from a lack of diversity in the kinds of problems that they solve. Employers often enforce a single language, platform, and domain in which their programmers must work.",
+      "identifier": "02734dc1-11ed-4050-ab7f-f07dd9d16468",
+      "is_public": false,
+      "quote": "Professional programmers often suffer from a lack of diversity in the kinds of problems that they solve. Employers often enforce a single language, platform, and domain in which their programmers must work.",
+      "ranges": [
+        {
+          "end": "/P[48]",
+          "start": "/P[48]",
+          "endOffset": 206,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-16T06:30:03.954000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "6. Practicing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch06.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "d2aa6bf1-cad3-4c64-a9ef-0cc596b9fab6",
+      "fragment": "Practicing a suite of katas is a good way to learn hot keys and navigation idioms. It is also a good way to learn disciplines such as TDD and CI. But most importantly, it is a good way to drive common problem/solution pairs into your subconscious, so that you simply know how to solve them when facing them in real programming.",
+      "identifier": "7886005e-a578-4eb5-91d0-5bc9191af1a6",
+      "is_public": false,
+      "quote": "Practicing a suite of katas is a good way to learn hot keys and navigation idioms. It is also a good way to learn disciplines such as TDD and CI. But most importantly, it is a good way to drive common problem/solution pairs into your subconscious, so that you simply know how to solve them when facing them in real programming.",
+      "ranges": [
+        {
+          "end": "/P[36]",
+          "start": "/P[36]",
+          "endOffset": 327,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-10T19:25:15.272000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "6. Practicing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch06.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "7fe5c612-f0e4-48aa-bb61-34e460c16315",
+      "fragment": "hundreds, perhaps thousands, of times. I got <em>very</em> good at it! I could do it in my sleep. I minimized the keystrokes, tuned the variable names, and tweaked the algorithm structure until it was just right. Although I didn’t know it at the time, this was my first kata.",
+      "identifier": "eb05fa4d-b8d3-48f1-8dfe-53efa4d888c2",
+      "is_public": false,
+      "quote": "hundreds, perhaps thousands, of times. I got very good at it! I could do it in my sleep. I minimized the keystrokes, tuned the variable names, and tweaked the algorithm structure until it was just right. Although I didn’t know it at the time, this was my first kata.",
+      "ranges": [
+        {
+          "end": "/P[27]",
+          "start": "/P[27]",
+          "endOffset": 312,
+          "startOffset": 46
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-10T19:23:13.555000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "6. Practicing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch06.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "46b1e1ff-f3e9-444a-8efc-59ad80d93cce",
+      "fragment": "60s I could wait a day or two to see the results of a compile. In the late ’70s a 50,000-line program might take 45 minutes to compile. Even in the ’90s, long build times were the norm.",
+      "identifier": "189aebb5-257f-49c8-a9c6-9dc48919af61",
+      "is_public": false,
+      "quote": "60s I could wait a day or two to see the results of a compile. In the late ’70s a 50,000-line program might take 45 minutes to compile. Even in the ’90s, long build times were the norm.",
+      "ranges": [
+        {
+          "end": "/P[16]",
+          "start": "/P[16]",
+          "endOffset": 239,
+          "startOffset": 54
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-10T07:24:58.748000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "6. Practicing",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch06.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "d8839571-bac7-4f92-9674-53f8720b2df2",
+      "fragment": "writing your tests first, creates a force that drives you to a better decoupled design",
+      "identifier": "af2fc5c5-f292-4fff-bd44-69886566de31",
+      "is_public": false,
+      "quote": "writing your tests first, creates a force that drives you to a better decoupled design",
+      "ranges": [
+        {
+          "end": "/P[40]",
+          "start": "/P[40]",
+          "endOffset": 127,
+          "startOffset": 41
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-10T07:19:05.187000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "5. Test Driven Development",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch05.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "36e04b04-28ae-422f-9781-edac739f7c5a",
+      "fragment": "There have been several reports<sup><a id=\"ch05fn04\" href=\"footnote.xhtml#ftn.ch05fn04\">4</a></sup> and studies<sup><a id=\"ch05fn05\" href=\"footnote.xhtml#ftn.ch05fn05\">5</a></sup> that describe significant defect reduction. From IBM, to Microsoft, from Sabre to Symantec, company after company and team after team have experienced defect reductions of 2X, 5X, and even 10",
+      "identifier": "4096e2de-4104-4327-a8c1-f970e4ccea1c",
+      "is_public": false,
+      "quote": "There have been several reports4 and studies5 that describe significant defect reduction. From IBM, to Microsoft, from Sabre to Symantec, company after company and team after team have experienced defect reductions of 2X, 5X, and even 10",
+      "ranges": [
+        {
+          "end": "/P[27]",
+          "start": "/P[27]",
+          "endOffset": 269,
+          "startOffset": 32
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-10T07:14:37.734000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "5. Test Driven Development",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch05.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "61c9cae3-f6a1-45d9-8abe-3f224b5350c9",
+      "fragment": "<li>You are not allowed to write any production code until you have first written a failing unit test.</li>\n<li>You are not allowed to write more of a unit test than is sufficient to fail—and not compiling is failing.</li>\n<li><span epub:type=\"pagebreak\" id=\"page_80\"></span>You are not allowed to write more production code that is sufficient to pass the currently failing unit test.</li>",
+      "identifier": "5c8fe107-b022-4099-aa16-680ffdd45395",
+      "is_public": false,
+      "quote": "You are not allowed to write any production code until you have first written a failing unit test.\nYou are not allowed to write more of a unit test than is sufficient to fail—and not compiling is failing.\nYou are not allowed to write more production code that is sufficient to pass the currently failing unit test.",
+      "ranges": [
+        {
+          "end": "/OL[1]/LI[3]",
+          "start": "/OL[1]/LI[1]",
+          "endOffset": 109,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-10T07:11:18.572000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "5. Test Driven Development",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch05.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "8db5932c-798d-420a-84cb-94a712b45fc7",
+      "fragment": "and in general prove to ourselves that we have brains the size of a planet, all while not having to interact with the messy complexities of <em>other people</em>",
+      "identifier": "3eb18e36-2cb7-403a-ad56-86d3c6154879",
+      "is_public": false,
+      "quote": "and in general prove to ourselves that we have brains the size of a planet, all while not having to interact with the messy complexities of other people",
+      "ranges": [
+        {
+          "end": "/P[109]/EM[4]",
+          "start": "/P[109]",
+          "endOffset": 12,
+          "startOffset": 446
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-09T06:39:16.308000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "09519f69-a09b-449e-bb73-e0a04f939b3b",
+      "fragment": "No matter how skilled you are, you will certainly benefit from another programmer’s thoughts and ideas.",
+      "identifier": "b485e152-fede-4484-ac02-b0039e692425",
+      "is_public": false,
+      "quote": "No matter how skilled you are, you will certainly benefit from another programmer’s thoughts and ideas.",
+      "ranges": [
+        {
+          "end": "/P[102]",
+          "start": "/P[102]",
+          "endOffset": 198,
+          "startOffset": 95
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-09T06:36:16.964000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "9ffaeee7-383f-4014-b2a9-736a20fe859f",
+      "fragment": "There is no way to rush. You can’t make yourself code faster. You can’t make yourself solve problems faster. If you try, you’ll just slow yourself down and make a mess that slows everyone else down, too.",
+      "identifier": "a352f4aa-b209-4018-8cfc-5089fee7d17f",
+      "is_public": false,
+      "quote": "There is no way to rush. You can’t make yourself code faster. You can’t make yourself solve problems faster. If you try, you’ll just slow yourself down and make a mess that slows everyone else down, too.",
+      "ranges": [
+        {
+          "end": "/P[91]",
+          "start": "/P[91]",
+          "endOffset": 203,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-09T06:31:48.436000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "de0f4422-dc8d-4cb3-a719-0259ccaa3ce8",
+      "fragment": "Your original estimates are more accurate than any changes you make while <span epub:type=\"pagebreak\" id=\"page_72\"></span>your boss is confronting you",
+      "identifier": "041ab4b6-7062-4ba6-8051-afe220acd7f2",
+      "is_public": false,
+      "quote": "Your original estimates are more accurate than any changes you make while your boss is confronting you",
+      "ranges": [
+        {
+          "end": "/P[89]",
+          "start": "/P[89]",
+          "endOffset": 261,
+          "startOffset": 159
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-09T06:31:01.202000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "d2ab3912-5d16-4cd7-9f64-f238a13bc9f7",
+      "fragment": "You miss elegant solutions because the creative part of your mind is suppressed by the intensity of your focus",
+      "identifier": "50bff355-1b18-4b95-a934-b32b3ca50abe",
+      "is_public": false,
+      "quote": "You miss elegant solutions because the creative part of your mind is suppressed by the intensity of your focus",
+      "ranges": [
+        {
+          "end": "/P[84]",
+          "start": "/P[84]",
+          "endOffset": 214,
+          "startOffset": 104
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-09T06:28:50.539000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "f3ff2de1-852a-48b1-9dda-a657857e253b",
+      "fragment": "Likewise, a software developer who creates many bugs is acting unprofessionally.",
+      "identifier": "d1c075cb-4501-4207-aef8-a69546064769",
+      "is_public": false,
+      "quote": "Likewise, a software developer who creates many bugs is acting unprofessionally.",
+      "ranges": [
+        {
+          "end": "/P[78]",
+          "start": "/P[78]",
+          "endOffset": 287,
+          "startOffset": 207
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-08T17:39:37.114000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "1cc0c194-53f9-4588-81fc-a4572a27632e",
+      "fragment": "Test Driven Development (TDD),",
+      "identifier": "119acc9f-2b51-4b07-8d84-76553a840a83",
+      "is_public": false,
+      "quote": "Test Driven Development (TDD),",
+      "ranges": [
+        {
+          "end": "/P[76]",
+          "start": "/P[76]",
+          "endOffset": 261,
+          "startOffset": 231
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-08T17:38:24.433000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "888fa354-cca7-42e3-9137-c73f72293824",
+      "fragment": "and",
+      "identifier": "14fd6fdb-ecf0-4c71-bbe9-472dae229b25",
+      "is_public": false,
+      "quote": "and",
+      "ranges": [
+        {
+          "end": "/P[75]",
+          "start": "/P[75]",
+          "endOffset": 246,
+          "startOffset": 243
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-08T17:38:07.429000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "fa9098c0-9cca-4394-86ba-36cb9e4f24da",
+      "fragment": "I fixed the problem, of course, but never had the courage to turn off the automatic hack that inspected and fixed the counters. To this day I’m not convinced there wasn’t another hole",
+      "identifier": "638d06f8-5a2b-4b0b-b21c-41161df556b0",
+      "is_public": false,
+      "quote": "I fixed the problem, of course, but never had the courage to turn off the automatic hack that inspected and fixed the counters. To this day I’m not convinced there wasn’t another hole",
+      "ranges": [
+        {
+          "end": "/P[74]",
+          "start": "/P[74]",
+          "endOffset": 183,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-08T17:36:14.031000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "ce05cfe1-cf01-4a19-9f7d-6ea45d1f551e",
+      "fragment": "from scratch in assembler",
+      "identifier": "dcd2722e-9055-4595-adb0-4414b06b9121",
+      "is_public": false,
+      "quote": "from scratch in assembler",
+      "ranges": [
+        {
+          "end": "/P[61]",
+          "start": "/P[61]",
+          "endOffset": 474,
+          "startOffset": 449
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-08T17:31:43.143000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "c0e1bf6d-2c53-4b80-a58f-2b8301d8d886",
+      "fragment": "creative output depends on creative input.",
+      "identifier": "3ff47697-54d7-4ce6-a653-b13ea116ee1e",
+      "is_public": false,
+      "quote": "creative output depends on creative input.",
+      "ranges": [
+        {
+          "end": "/P[53]",
+          "start": "/P[53]",
+          "endOffset": 122,
+          "startOffset": 80
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-08T07:25:11.342000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "fd3d7a59-cc25-4088-8c07-23552952c4cd",
+      "fragment": "As soon as you sit down next to someone else, the issues that were blocking you melt away",
+      "identifier": "3c290380-3c9f-476f-aea9-bf0697e57220",
+      "is_public": false,
+      "quote": "As soon as you sit down next to someone else, the issues that were blocking you melt away",
+      "ranges": [
+        {
+          "end": "/P[51]",
+          "start": "/P[51]",
+          "endOffset": 123,
+          "startOffset": 34
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-08T07:25:02.706000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "52e99f0c-fac1-4e1c-ac02-355467257ad8",
+      "fragment": "that next time you may be the one who needs to interrupt someone else. So the professional attitude is a polite willingness to be helpful.",
+      "identifier": "7abbadcd-19bf-42b9-a31a-16e67854daac",
+      "is_public": false,
+      "quote": "that next time you may be the one who needs to interrupt someone else. So the professional attitude is a polite willingness to be helpful.",
+      "ranges": [
+        {
+          "end": "/P[45]",
+          "start": "/P[45]",
+          "endOffset": 262,
+          "startOffset": 124
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-08T07:23:21.913000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "06b6b818-ba6a-4dc9-97d3-b67db41e1abe",
+      "fragment": "<em>Avoid the Zone</em>. This state of consciousness is not really hyper-productive and is certainly not infallible. It’s really just a mild meditative state in which certain rational faculties are diminished in favor of a sense of speed.",
+      "identifier": "10a9aa80-a88c-4ca1-b904-25c4b04a7232",
+      "is_public": false,
+      "quote": "Avoid the Zone. This state of consciousness is not really hyper-productive and is certainly not infallible. It’s really just a mild meditative state in which certain rational faculties are diminished in favor of a sense of speed.",
+      "ranges": [
+        {
+          "end": "/P[27]",
+          "start": "/P[27]/EM[1]",
+          "endOffset": 290,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-08T07:19:01.363000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "39323e9e-3749-4485-8c55-2552f72ff59b",
+      "fragment": "When I am worried about an argument with my wife, or a customer crisis, or a sick child, I can’t maintain focus",
+      "identifier": "d73ae9cf-d330-417d-a027-1697ef8a3583",
+      "is_public": false,
+      "quote": "When I am worried about an argument with my wife, or a customer crisis, or a sick child, I can’t maintain focus",
+      "ranges": [
+        {
+          "end": "/P[18]",
+          "start": "/P[18]",
+          "endOffset": 111,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-07T20:12:16.963000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "b16eff46-6122-443a-9836-eaded384b70f",
+      "fragment": "I find myself with my eyes on the screen and my fingers on the keyboard, doing nothing",
+      "identifier": "74e50765-a602-4752-8e65-e429694d60ac",
+      "is_public": false,
+      "quote": "I find myself with my eyes on the screen and my fingers on the keyboard, doing nothing",
+      "ranges": [
+        {
+          "end": "/P[18]",
+          "start": "/P[18]",
+          "endOffset": 224,
+          "startOffset": 138
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-07T20:11:57.157000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "efc42bb3-22c1-41ed-9618-4712441f77c3",
+      "fragment": "<p>working at 3 <span class=\"smaller\">AM</span> is what serious professionals do. How wrong I was!</p>\n<p>That code came back to bite us over and over</p>",
+      "identifier": "43007526-cc42-40de-816d-33fd6ddce4b7",
+      "is_public": false,
+      "quote": "working at 3 AM is what serious professionals do. How wrong I was!\n\nThat code came back to bite us over and over",
+      "ranges": [
+        {
+          "end": "/P[15]",
+          "start": "/P[14]",
+          "endOffset": 44,
+          "startOffset": 129
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-07T20:10:00.098000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "ff50a54d-70c2-40bc-98ef-1da8bfc866c8",
+      "fragment": "The bottom line is that the opportunity for distraction is high.",
+      "identifier": "f65207d6-5402-4386-a824-ceadbf58fb37",
+      "is_public": false,
+      "quote": "The bottom line is that the opportunity for distraction is high.",
+      "ranges": [
+        {
+          "end": "/P[9]",
+          "start": "/P[9]",
+          "endOffset": 338,
+          "startOffset": 274
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-07T20:07:47.478000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "3e5672ed-b37b-4b67-93fa-a0fc07b4cb61",
+      "fragment": "I realized, during that long night, that typing blind is all about <em>confidence</em>",
+      "identifier": "2de91b60-44db-46d7-8878-0648ab6ded99",
+      "is_public": false,
+      "quote": "I realized, during that long night, that typing blind is all about confidence",
+      "ranges": [
+        {
+          "end": "/P[3]/EM[1]",
+          "start": "/P[3]",
+          "endOffset": 10,
+          "startOffset": 109
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-07T19:58:15.610000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "884a5140-f21a-46bd-a531-945fd13f35ae",
+      "fragment": "Being able to sense your errors is really important",
+      "identifier": "7aff890c-79d6-47d3-bda2-ed2578b102ce",
+      "is_public": false,
+      "quote": "Being able to sense your errors is really important",
+      "ranges": [
+        { "end": "/P[4]", "start": "/P[4]", "endOffset": 51, "startOffset": 0 }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-07T19:57:40.555000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "4. Coding",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch04.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "290412b4-39f5-42ad-9279-28f31099902f",
+      "fragment": "Professionals are not required to say yes to everything that is asked of them. However, they should work hard to find creative ways to make “yes” possible",
+      "identifier": "4296ca4a-f8af-4d7b-a3c5-1cadb9e70488",
+      "is_public": false,
+      "quote": "Professionals are not required to say yes to everything that is asked of them. However, they should work hard to find creative ways to make “yes” possible",
+      "ranges": [
+        {
+          "end": "/P[105]",
+          "start": "/P[105]",
+          "endOffset": 154,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-07T19:56:01.644000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "3. Saying Yes",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch03.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "fceca8a2-80e6-4c9a-92bf-ee322187d706",
+      "fragment": "Years of experience have taught us that breaking disciplines only slows us down.",
+      "identifier": "75fa9a34-db53-45df-9427-c3c58e5248a7",
+      "is_public": false,
+      "quote": "Years of experience have taught us that breaking disciplines only slows us down.",
+      "ranges": [
+        {
+          "end": "/P[91]",
+          "start": "/P[91]",
+          "endOffset": 354,
+          "startOffset": 274
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-07T19:53:52.664000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "3. Saying Yes",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch03.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "c3926395-6089-4b71-b2e4-c1a4cabdc1b2",
+      "fragment": "Creating a language of commitment may sound a bit scary, but it can help solve many of the communication problems",
+      "identifier": "2d8f985a-a710-4e0a-a115-66ad29b5cb40",
+      "is_public": false,
+      "quote": "Creating a language of commitment may sound a bit scary, but it can help solve many of the communication problems",
+      "ranges": [
+        {
+          "end": "/P[59]",
+          "start": "/P[59]",
+          "endOffset": 113,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-07T07:35:58.183000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "3. Saying Yes",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch03.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "94367a48-9e57-47f5-a5d9-4289bf419555",
+      "fragment": "telltale signs of noncommitment:",
+      "identifier": "0fb58d25-962c-4a9b-a613-997d9f074270",
+      "is_public": false,
+      "quote": "telltale signs of noncommitment:",
+      "ranges": [
+        {
+          "end": "/P[23]",
+          "start": "/P[23]",
+          "endOffset": 97,
+          "startOffset": 65
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-04T23:16:37.373000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "3. Saying Yes",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch03.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "bd0c225f-daf4-4970-96a5-b8c9ebcdfa21",
+      "fragment": "<p>“Is good code impossible? Is professionalism impossible?”</p>\n<p>Answer: I say <em>no</em></p>",
+      "identifier": "41c63d92-98b0-4ef7-8edf-0f11ea1b03d2",
+      "is_public": false,
+      "quote": "“Is good code impossible? Is professionalism impossible?”\n\nAnswer: I say no",
+      "ranges": [
+        {
+          "end": "/P[169]/EM[1]",
+          "start": "/P[168]",
+          "endOffset": 2,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-04T23:11:07.548000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "c1aaa224-3e1f-4d2f-8b20-cd524a421df9",
+      "fragment": "The Cost of Saying Yes",
+      "identifier": "3014edc1-6641-4751-bab1-d44e957684e8",
+      "is_public": false,
+      "quote": "THE COST OF SAYING YES",
+      "ranges": [
+        {
+          "end": "/H3[4]",
+          "start": "/H3[4]",
+          "endOffset": 22,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-04T23:10:54.747000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "451e1978-5da7-471b-a706-94dd8fecf5cc",
+      "fragment": "he is really asking “Is",
+      "identifier": "36a4d773-2060-4cec-9420-eeed241e0bd1",
+      "is_public": false,
+      "quote": "he is really asking “Is",
+      "ranges": [
+        {
+          "end": "/P[151]",
+          "start": "/P[151]",
+          "endOffset": 79,
+          "startOffset": 56
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-04T23:06:37.652000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "de562ba5-266c-48c3-9965-22a6bafe1a83",
+      "fragment": "said one thing correctly all along: The code was a throwaway",
+      "identifier": "7dccbaac-1a1d-4331-9f1c-9678b53df25e",
+      "is_public": false,
+      "quote": "said one thing correctly all along: The code was a throwaway",
+      "ranges": [
+        {
+          "end": "/DIV[1]/P[47]",
+          "start": "/DIV[1]/P[47]",
+          "endOffset": 106,
+          "startOffset": 46
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-04T23:04:19.314000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "6476d83e-86e0-4fbb-bbfc-6ca2443e51f0",
+      "fragment": "The client will always extend the deadline. They will always want more features.",
+      "identifier": "2ef4e9fe-14e8-4522-b77a-1d94de5aab51",
+      "is_public": false,
+      "quote": "The client will always extend the deadline. They will always want more features.",
+      "ranges": [
+        {
+          "end": "/DIV[1]/P[31]",
+          "start": "/DIV[1]/P[31]",
+          "endOffset": 179,
+          "startOffset": 99
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-04T23:01:03.173000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "b808f2de-4d19-482e-8d99-d2c3f00d30d9",
+      "fragment": "Good code has become impossible.",
+      "identifier": "65ea2312-7601-484b-b30f-05bd0489ba12",
+      "is_public": false,
+      "quote": "Good code has become impossible.",
+      "ranges": [
+        {
+          "end": "/DIV[1]/P[24]",
+          "start": "/DIV[1]/P[24]",
+          "endOffset": 32,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-04T22:58:58.225000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "f1e02bfb-b1b1-4671-9a3c-51300d3638de",
+      "fragment": "Is good code impossible in modern software development?",
+      "identifier": "fc59cf73-ed8f-4d9b-8d53-15bb5e50d150",
+      "is_public": false,
+      "quote": "Is good code impossible in modern software development?",
+      "ranges": [
+        {
+          "end": "/DIV[1]/P[6]",
+          "start": "/DIV[1]/P[6]",
+          "endOffset": 61,
+          "startOffset": 6
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-04T22:55:46.929000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "e5926e83-72d9-4349-9e0a-b59c854c6417",
+      "fragment": "You are <em>lying</em>",
+      "identifier": "9300da30-0f04-426c-a3e5-1c70dc81be16",
+      "is_public": false,
+      "quote": "You are lying",
+      "ranges": [
+        {
+          "end": "/P[110]/EM[1]",
+          "start": "/P[110]",
+          "endOffset": 5,
+          "startOffset": 240
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-04T17:44:22.455000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "daeff938-6d19-45e5-8021-d5150a33e58f",
+      "fragment": "trying",
+      "identifier": "8700ee40-173a-40d6-87c4-d947984dd3f1",
+      "is_public": false,
+      "quote": "trying",
+      "ranges": [
+        {
+          "end": "/P[108]",
+          "start": "/P[108]",
+          "endOffset": 305,
+          "startOffset": 299
+        }
+      ],
+      "text": "Trying is like defining all done bad",
+      "last_modified_time": "2023-03-04T17:44:01.353000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "5c753fd1-6243-4482-95bb-d712b8c3872b",
+      "fragment": "Perhaps you don’t like that idea? Perhaps you think <em>trying</em> is a positive thing to do. After all, would Columbus have discovered America if he hadn’t tried?",
+      "identifier": "ae483c14-b286-4ba9-b389-5a7e90bda2ee",
+      "is_public": false,
+      "quote": "Perhaps you don’t like that idea? Perhaps you think trying is a positive thing to do. After all, would Columbus have discovered America if he hadn’t tried?",
+      "ranges": [
+        {
+          "end": "/P[104]",
+          "start": "/P[104]",
+          "endOffset": 155,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-04T17:40:41.346000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "a83a9947-0941-40b2-812f-a21f824d6bb2",
+      "fragment": "The higher the stakes, the more valuable no becomes",
+      "identifier": "672e79c7-3146-43b6-95bf-c61f8e3b52c3",
+      "is_public": false,
+      "quote": "The higher the stakes, the more valuable no becomes",
+      "ranges": [
+        {
+          "end": "/P[63]",
+          "start": "/P[63]",
+          "endOffset": 117,
+          "startOffset": 66
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-04T17:33:21.082000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "507add1f-b73f-43c9-bc9c-6cab1669ec79",
+      "fragment": "Providing too much detail can be an invitation for micro-management.",
+      "identifier": "c94ad857-854f-4aea-9ae5-9830f3dabc88",
+      "is_public": false,
+      "quote": "Providing too much detail can be an invitation for micro-management.",
+      "ranges": [
+        {
+          "end": "/P[62]",
+          "start": "/P[62]",
+          "endOffset": 517,
+          "startOffset": 449
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-04T17:33:05.955000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "db9e9171-be55-4940-8093-56bde488e295",
+      "fragment": "can",
+      "identifier": "80f1b0c7-c786-44e4-a409-31b1c831b4a9",
+      "is_public": false,
+      "quote": "can",
+      "ranges": [
+        {
+          "end": "/P[29]",
+          "start": "/P[29]",
+          "endOffset": 223,
+          "startOffset": 220
+        }
+      ],
+      "text": "Both fight with the same commitment",
+      "last_modified_time": "2023-03-04T17:28:06.110000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "08c05775-1def-47ec-94e3-30d993325e99",
+      "fragment": "<p>Managers are people with a job to do, and most managers know how to do that job pretty well. Part of that job is to pursue and defend their objectives as aggressively as they can.</p>\n<p>By the same token, programmers are also people with a job to do, and most of them know how to get that job done pretty well. If they are professionals they will pursue and defend <em>their</em> objectives as aggressively as <em>they</em> can.</p>",
+      "identifier": "7888e625-3cda-49c5-9858-d07c07aca699",
+      "is_public": false,
+      "quote": "Managers are people with a job to do, and most managers know how to do that job pretty well. Part of that job is to pursue and defend their objectives as aggressively as they can.\n\nBy the same token, programmers are also people with a job to do, and most of them know how to get that job done pretty well. If they are professionals they will pursue and defend their objectives as aggressively as they can.",
+      "ranges": [
+        {
+          "end": "/P[29]",
+          "start": "/P[28]",
+          "endOffset": 224,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-04T17:27:42.336000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "fd127da6-77e6-4a0f-8f84-e198bd01fe64",
+      "fragment": "Indeed",
+      "identifier": "a1eefbba-9a86-494d-bd8d-647338e74ba3",
+      "is_public": false,
+      "quote": "Indeed",
+      "ranges": [
+        {
+          "end": "/P[25]",
+          "start": "/P[25]",
+          "endOffset": 118,
+          "startOffset": 112
+        }
+      ],
+      "text": "Thomas, said no to bugfix a data fuckup which has been a week in production",
+      "last_modified_time": "2023-03-04T17:25:42.011000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "67f3447f-0c87-4d61-af32-52bc88a15481",
+      "fragment": "<p>No. Not if you are a professional.</p>\n<p>Slaves are not allowed to say no. Laborers may be hesitant to say no. But professionals are <em>expected</em> to say no</p>",
+      "identifier": "27c89056-48f7-49b5-927c-50efce0d39f1",
+      "is_public": false,
+      "quote": "No. Not if you are a professional.\n\nSlaves are not allowed to say no. Laborers may be hesitant to say no. But professionals are expected to say no",
+      "ranges": [
+        {
+          "end": "/P[25]",
+          "start": "/P[24]",
+          "endOffset": 110,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-04T17:25:04.626000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "2. Saying No",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch02.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "1c122786-3797-4da3-83c1-3f8f5fc44bed",
+      "fragment": "Laugh",
+      "identifier": "416e66a4-28ed-4a8f-a3f1-37c58b99bfa5",
+      "is_public": false,
+      "quote": "Laugh",
+      "ranges": [
+        {
+          "end": "/P[106]",
+          "start": "/P[106]",
+          "endOffset": 187,
+          "startOffset": 182
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-02T06:59:31.833000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "1. Professionalism",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch01.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "86fd6dd9-2479-44f6-b33c-60a33f29cb98",
+      "fragment": "He will not demean another for making a mistake, because he knows he may be the next to fail",
+      "identifier": "393c9102-8270-4994-b065-633ba8cc14d1",
+      "is_public": false,
+      "quote": "He will not demean another for making a mistake, because he knows he may be the next to fail",
+      "ranges": [
+        {
+          "end": "/P[105]",
+          "start": "/P[105]",
+          "endOffset": 286,
+          "startOffset": 194
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-02T06:59:18.979000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "1. Professionalism",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch01.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "16e8d47e-3794-4332-bd1e-6e7833cd4e5a",
+      "fragment": "timid",
+      "identifier": "52fba610-6602-450e-9799-de942c8bd2e1",
+      "is_public": false,
+      "quote": "timid",
+      "ranges": [
+        {
+          "end": "/P[103]",
+          "start": "/P[103]",
+          "endOffset": 258,
+          "startOffset": 253
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-02T06:58:37.850000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "1. Professionalism",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch01.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "d2b81e86-d4d3-4296-911f-29f08d8c6819",
+      "fragment": "programming is an act of supreme arrogance.",
+      "identifier": "7927248b-442d-4bf3-be62-ba414585c190",
+      "is_public": false,
+      "quote": "programming is an act of supreme arrogance.",
+      "ranges": [
+        {
+          "end": "/P[102]",
+          "start": "/P[102]",
+          "endOffset": 310,
+          "startOffset": 267
+        }
+      ],
+      "text": "Okey, wieso auch immer das so wichtig ist",
+      "last_modified_time": "2023-03-02T06:58:00.493000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "1. Professionalism",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch01.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "fd504063-d959-4228-ac04-e99e6b650a98",
+      "fragment": "put yourself in your employer’s shoes ",
+      "identifier": "f53b504f-e108-41c4-9bc4-6f2c2db7914f",
+      "is_public": false,
+      "quote": "put yourself in your employer’s shoes ",
+      "ranges": [
+        {
+          "end": "/P[100]",
+          "start": "/P[100]",
+          "endOffset": 201,
+          "startOffset": 163
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-02T06:57:12.864000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "1. Professionalism",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch01.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "6d5c620b-2532-41d5-b912-a15a7464bd90",
+      "fragment": "You don’t have to be a domain expert, but there is a reasonable amount ",
+      "identifier": "efe017dd-8e78-490b-9f2c-6fd7dbbf9b34",
+      "is_public": false,
+      "quote": "You don’t have to be a domain expert, but there is a reasonable amount ",
+      "ranges": [
+        {
+          "end": "/P[97]",
+          "start": "/P[97]",
+          "endOffset": 348,
+          "startOffset": 277
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-03-02T06:56:30.006000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "1. Professionalism",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch01.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "ddf3d42f-8a34-4521-b10c-eff6d2054965",
+      "fragment": "Mentoring",
+      "identifier": "dd081dd8-fe1d-4c19-a3d8-380103d4d26b",
+      "is_public": false,
+      "quote": "Mentoring",
+      "ranges": [
+        { "end": "/H4[7]", "start": "/H4[7]", "endOffset": 9, "startOffset": 0 }
+      ],
+      "text": "Wiederspruch zu lernen nebenbei",
+      "last_modified_time": "2023-02-28T08:01:21.908000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "1. Professionalism",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch01.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "8fe5b730-cfa4-4c69-90b3-d08a2bed4fcb",
+      "fragment": "simple exercises such as the <code>Bowling Game</code> or <code>Prime Factors</code>. I call these exercises <em>kata</em>. There are many such kata",
+      "identifier": "71605c2d-e681-46e2-be7e-938e6260cff6",
+      "is_public": false,
+      "quote": "simple exercises such as the Bowling Game or Prime Factors. I call these exercises kata. There are many such kata",
+      "ranges": [
+        {
+          "end": "/P[89]",
+          "start": "/P[89]",
+          "endOffset": 333,
+          "startOffset": 220
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-02-28T07:59:05.375000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "1. Professionalism",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch01.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "c3fff43a-54d5-4cce-9ca4-fb59f1aa1df8",
+      "fragment": "Here is a <em>minimal</em> list of the things that every software professional should be conversant with:",
+      "identifier": "c76fe7ef-9a82-4690-b0db-d3419aba14d0",
+      "is_public": false,
+      "quote": "Here is a minimal list of the things that every software professional should be conversant with:",
+      "ranges": [
+        {
+          "end": "/P[78]",
+          "start": "/P[78]",
+          "endOffset": 96,
+          "startOffset": 0
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-02-28T07:56:01.275000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "1. Professionalism",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch01.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "4738c30c-5f8f-46e3-b31c-5cc2c709ee03",
+      "fragment": "You should plan on working 60 hours per week. The first 40 are for your employer. The remaining 20 are for you. During this remaining 20 hours you should be reading, practicing, learning, and otherwise enhancing your career.",
+      "identifier": "669355ee-6c50-465e-afe0-85d098fd9707",
+      "is_public": false,
+      "quote": "You should plan on working 60 hours per week. The first 40 are for your employer. The remaining 20 are for you. During this remaining 20 hours you should be reading, practicing, learning, and otherwise enhancing your career.",
+      "ranges": [
+        {
+          "end": "/P[64]",
+          "start": "/P[64]",
+          "endOffset": 224,
+          "startOffset": 0
+        }
+      ],
+      "text": "I strongly disagree",
+      "last_modified_time": "2023-02-28T07:51:27.937000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "1. Professionalism",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch01.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "d246c051-14a0-45f7-bbd3-32d555955ab6",
+      "fragment": "you refine the design so that the next change is easier",
+      "identifier": "21d82b1a-5fdb-4f36-8759-c3b0f43499c4",
+      "is_public": false,
+      "quote": "you refine the design so that the next change is easier",
+      "ranges": [
+        {
+          "end": "/P[53]",
+          "start": "/P[53]",
+          "endOffset": 211,
+          "startOffset": 156
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-02-28T07:45:40.182000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "1. Professionalism",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch01.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    },
+    {
+      "pk": "564bb932-6de1-49c4-972a-89e27ff4c395",
+      "fragment": "surprised",
+      "identifier": "1c00ef86-db27-40cd-bcbd-ff57a1a59fec",
+      "is_public": false,
+      "quote": "surprised",
+      "ranges": [
+        {
+          "end": "/P[35]",
+          "start": "/P[35]",
+          "endOffset": 72,
+          "startOffset": 63
+        }
+      ],
+      "text": null,
+      "last_modified_time": "2023-02-28T07:36:49.598000Z",
+      "user_identifier": "66b7892a-01e4-4bdd-82c7-07104d89df36",
+      "chapter_title": "1. Professionalism",
+      "chapter_url": "https://learning.oreilly.com/library/view/-/9780132542913/ch01.xhtml",
+      "cover_url": "https://learning.oreilly.com/covers/9780132542913/",
+      "epub_identifier": "9780132542913",
+      "epub_title": "The Clean Coder: A Code of Conduct for Professional Programmers"
+    }
+  ]
+}
